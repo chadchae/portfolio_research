@@ -1,4 +1,7 @@
-.*
+.Rproj.user
+.quarto
+.DS_store
+.Rhistory
 Working
 _git
 _quarto.yml
