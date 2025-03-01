@@ -1,1291 +1,730 @@
 {
-  "index.qmd": {
-    "index.html": "86554dfb"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter8/chapter8.qmd": {
-    "chapter8.html": "62f74e74"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter1/chapter1.qmd": {
-    "chapter1.html": "c518b8c7"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter6/chapter6.qmd": {
-    "chapter6.html": "165e21cb"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter7/chapter7.qmd": {
-    "chapter7.html": "8ffbec3c"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter0/chapter0.qmd": {
-    "chapter0.html": "7b7a6457"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter9/chapter9.qmd": {
-    "chapter9.html": "ee6f92a1"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter10/chapter10.qmd": {
-    "chapter10.html": "555f54e0"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter11/chapter11.qmd": {
-    "chapter11.html": "e90a50aa"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter5/chapter5.qmd": {
-    "chapter5.html": "0ea57f0e"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter2/chapter2.qmd": {
-    "chapter2.html": "f2320160"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter3/chapter3.qmd": {
-    "chapter3.html": "99bdfa6e"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter4/chapter4.qmd": {
-    "chapter4.html": "284fdcb1"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter13/chapter13.qmd": {
-    "chapter13.html": "d560ce85"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter14/chapter14.qmd": {
-    "chapter14.html": "53095ec4"
-  },
-  "MGS3001/03_Lecture_Note/LectureNote_Chad/PPT/chapter12/chapter12.qmd": {
-    "chapter12.html": "f1e34641"
-  },
-  "MGS3001/07_Script/Doit_Python-main/Notebook/12.ipynb": {
-    "12.html": "69f5ea01"
-  },
-  "MGS3001/07_Script/Doit_Python-main/Notebook/Quiz.ipynb": {
-    "Quiz.html": "4d3df140"
-  },
-  "MGS3001/07_Script/Doit_Python-main/Notebook/10.ipynb": {
-    "10.html": "3acb2cdf"
-  },
-  "MGS3001/07_Script/Doit_Python-main/Notebook/09.ipynb": {
-    "09.html": "67908f31"
-  },
-  "MGS3001/07_Script/Doit_Python-main/Notebook/14.ipynb": {
-    "14.html": "b7598cbf"
-  },
-  "MGS3001/07_Script/Doit_Python-main/Notebook/16.ipynb": {
-    "16.html": "6b3e9daf"
-  },
-  "MGS3001/07_Script/Doit_Python-main/Notebook/11.ipynb": {
-    "11.html": "91bdeeb0"
-  },
-  "MGS3001/07_Script/Doit_Python-main/Notebook/08.ipynb": {
-    "08.html": "6a0d87cd"
-  },
-  "MGS3001/07_Script/python-analytics/code_in_class_visualization.ipynb": {
-    "code_in_class_visualization.html": "82cab928"
-  },
-  "MGS3001/07_Script/python-analytics/untitled.md": {
-    "untitled.html": "a7ed8f9d"
-  },
-  "MGS3001/07_Script/python-analytics/barchart_race/barchart1.ipynb": {
-    "barchart1.html": "d2716806"
-  },
-  "MGS3001/07_Script/python-analytics/barchart_race/barchart2.ipynb": {
-    "barchart2.html": "a946b921"
-  },
-  "MGS3001/07_Script/python-analytics/analysis2.ipynb": {
-    "analysis2.html": "a1ee23fe"
-  },
-  "MGS3001/07_Script/python-analytics/maptest.ipynb": {
-    "maptest.html": "be0afa15"
-  },
-  "MGS3001/07_Script/python-analytics/test.qmd": {
-    "test.html": "f9f158da"
-  },
-  "MGS3001/07_Script/python-analytics/code_in_class_Analysis.ipynb": {
-    "code_in_class_Analysis.html": "dd4cad2f"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-09-ProbSolutions-CART.ipynb": {
-    "Ch-09-ProbSolutions-CART.html": "623e0824"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-17-ProbSolutions-RF.ipynb": {
-    "Ch-17-ProbSolutions-RF.html": "74d4fcf8"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-03-ProbSolutions-Viz.ipynb": {
-    "Ch-03-ProbSolutions-Viz.html": "821f1d8d"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-12-ProbSolutions-DA.ipynb": {
-    "Ch-12-ProbSolutions-DA.html": "d8627661"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-06-ProbSolutions-MLR.ipynb": {
-    "Ch-06-ProbSolutions-MLR.html": "1fb34f02"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-18-ProbSolutions-SM.ipynb": {
-    "Ch-18-ProbSolutions-SM.html": "6b4bbb58"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-14-ProbSolutions-AR.ipynb": {
-    "Ch-14-ProbSolutions-AR.html": "3ef9473a"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-05-ProbSolutions-Assessment.ipynb": {
-    "Ch-05-ProbSolutions-Assessment.html": "b0d83f7d"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-07-ProbSolutions-KNN.ipynb": {
-    "Ch-07-ProbSolutions-KNN.html": "1e0df2a7"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-21-CaseStudies/Case 21.5 Taxi Cancellations.ipynb": {
-    "Case 21.5 Taxi Cancellations.html": "086474d3"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-21-CaseStudies/Case 21.4 Political Persuasion.ipynb": {
-    "Case 21.4 Political Persuasion.html": "b593fbe9"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-21-CaseStudies/Case 21.2 German Credit.ipynb": {
-    "Case 21.2 German Credit.html": "584847ef"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-21-CaseStudies/Case 21.8 Catalog Cross-Selling.ipynb": {
-    "Case 21.8 Catalog Cross-Selling.html": "ac4daf42"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-21-CaseStudies/Case 21.7 Direct-Mail Fundraising.ipynb": {
-    "Case 21.7 Direct-Mail Fundraising.html": "b1c3dca3"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-21-CaseStudies/Case 21.3 Tayko software cataloger.ipynb": {
-    "Case 21.3 Tayko software cataloger.html": "7e309830"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-21-CaseStudies/Case 21.9 Time series data - Forecasting public transportation demands.ipynb": {
-    "Case 21.9 Time series data - Forecasting public transportation demands.html": "cabf5362"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-21-CaseStudies/Case 21.1 Charles Book Club.ipynb": {
-    "Case 21.1 Charles Book Club.html": "9f972f7f"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-21-CaseStudies/Case 21.6 Segmenting Consumers of Bath Soap.ipynb": {
-    "Case 21.6 Segmenting Consumers of Bath Soap.html": "c25b8044"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-04-ProbSolutions-PCA.ipynb": {
-    "Ch-04-ProbSolutions-PCA.html": "76fc3940"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-08-ProbSolutions-NB.ipynb": {
-    "Ch-08-ProbSolutions-NB.html": "6d0daf64"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-02-ProbSolutions-Overview.ipynb": {
-    "Ch-02-ProbSolutions-Overview.html": "122e6873"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-20-ProbSolutions-TM.ipynb": {
-    "Ch-20-ProbSolutions-TM.html": "20d7401f"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-11-ProbSolutions-NN.ipynb": {
-    "Ch-11-ProbSolutions-NN.html": "a3e9e667"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-15-ProbSolutions-CA.ipynb": {
-    "Ch-15-ProbSolutions-CA.html": "0a942391"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-16-ProbSolutions-TS.ipynb": {
-    "Ch-16-ProbSolutions-TS.html": "0771fd9b"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-19-ProbSolutions-SNA.ipynb": {
-    "Ch-19-ProbSolutions-SNA.html": "fa25c03b"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-13-ProbSolutions-Ensemble.ipynb": {
-    "Ch-13-ProbSolutions-Ensemble.html": "e88ec8d7"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Publisher/Class Activity/ProblemSolution_python/Ch-10-ProbSolutions-LR.ipynb": {
-    "Ch-10-ProbSolutions-LR.html": "db415b61"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/Lecture_Note/Chapter1/chapter1_Note.qmd": {
-    "chapter1_Note.html": "b15d6529",
-    "chapter1_Note.docx": "239e980d",
-    "chapter1_Note.tex": "317716ee"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/Lecture_Note/Chapter2/Chapter2_Note.qmd": {
-    "Chapter2_Note.html": "82f0f4cb",
-    "Chapter2_Note.docx": "95cee54f",
-    "Chapter2_Note.tex": "06f8c4f6"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter8/chapter8.qmd": {
-    "chapter8.html": "57ee374f"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter1/chapter1.qmd": {
-    "chapter1.html": "d1b48374"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter6/chapter6.qmd": {
-    "chapter6.html": "ea85c3d7"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter7/chapter7.qmd": {
-    "chapter7.html": "d0601800"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter0/chapter0.qmd": {
-    "chapter0.html": "ee7ee768"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter9/chapter9.qmd": {
-    "chapter9.html": "c4ee3a64"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter17/chapter17.qmd": {
-    "chapter17.html": "90cf7704"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter10/chapter10.qmd": {
-    "chapter10.html": "532093f6"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter19/chapter19.qmd": {
-    "chapter19.html": "b6302916"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter21/chapter21.qmd": {
-    "chapter21.html": "e2b88b79"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter20/chapter20.qmd": {
-    "chapter20.html": "ee5c8197"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter18/chapter18.qmd": {
-    "chapter18.html": "77a35bc4"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter11/chapter11.qmd": {
-    "chapter11.html": "ddad5d97"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter16/chapter16.qmd": {
-    "chapter16.html": "8ec84888"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter5/chapter5.qmd": {
-    "chapter5.html": "34a9724a"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter2/chapter2.qmd": {
-    "chapter2.html": "6f2986fd"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter3/chapter3.qmd": {
-    "chapter3.html": "83cf1dc3"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter4/chapter4.qmd": {
-    "chapter4.html": "50903eeb"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter13/chapter13.qmd": {
-    "chapter13.html": "8018e973"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter14/chapter14.qmd": {
-    "chapter14.html": "f2303051"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter15/chapter15.qmd": {
-    "chapter15.html": "7df06a07"
-  },
-  "MGS3701/03_Lecture_Note/LectureNote_Chad/PPT/chapter12/chapter12.qmd": {
-    "chapter12.html": "8f7cfece"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 19 - Social Network Analysis.ipynb": {
-    "Chapter 19 - Social Network Analysis.html": "3c8a26e9"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 03 - Data visualization.ipynb": {
-    "Chapter 03 - Data visualization.html": "28faab1d"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 07 - kNN.ipynb": {
-    "Chapter 07 - kNN.html": "9bfbedb8"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 06 - Multiple linear regression.ipynb": {
-    "Chapter 06 - Multiple linear regression.html": "70bc08d8"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 01 - Introduction.ipynb": {
-    "Chapter 01 - Introduction.html": "1eed71c9"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 02 - Overview.ipynb": {
-    "Chapter 02 - Overview.html": "f110479d"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 18 - TS smoothing.ipynb": {
-    "Chapter 18 - TS smoothing.html": "aa6a82d3"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 11 - Neural nets (add-on).ipynb": {
-    "Chapter 11 - Neural nets (add-on).html": "87c75141"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 09 - Classification and regression trees.ipynb": {
-    "Chapter 09 - Classification and regression trees.html": "d98ccf50"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 16 - Handling time series.ipynb": {
-    "Chapter 16 - Handling time series.html": "7260c591"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 12 - Discriminant analysis.ipynb": {
-    "Chapter 12 - Discriminant analysis.html": "ea38081f"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 10 - Logistic regression.ipynb": {
-    "Chapter 10 - Logistic regression.html": "44aeb566"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 14 - Association rules.ipynb": {
-    "Chapter 14 - Association rules.html": "f264cde4"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 15 - Cluster analysis.ipynb": {
-    "Chapter 15 - Cluster analysis.html": "1f489d4b"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 17 - Regression-based forecasting.ipynb": {
-    "Chapter 17 - Regression-based forecasting.html": "d3b19956"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 11 - Neural nets.ipynb": {
-    "Chapter 11 - Neural nets.html": "bcddd6e6"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 08 - Naive Bayes classifier.ipynb": {
-    "Chapter 08 - Naive Bayes classifier.html": "5f49283e"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 20 - Text mining.ipynb": {
-    "Chapter 20 - Text mining.html": "67d0b534"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 05 - Evaluating performance.ipynb": {
-    "Chapter 05 - Evaluating performance.html": "70338605"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 13 - Ensembles and uplift.ipynb": {
-    "Chapter 13 - Ensembles and uplift.html": "edc75502"
-  },
-  "MGS3701/07_Script/Chapter Examples Python/Chapter 04 - Dimension reduction.ipynb": {
-    "Chapter 04 - Dimension reduction.html": "b7f3a730"
-  },
-  "about.qmd": {
-    "about.html": "01c6d2fe"
-  },
-  "WKU2025 Class Information/lecture note template/chapter0.qmd": {
-    "chapter0.html": "e850c64e"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter8/chapter8.qmd": {
-    "chapter8.html": "beb691f4"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter1/chapter1.qmd": {
-    "chapter1.html": "07a30c24"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter6/chapter6.qmd": {
-    "chapter6.html": "6af645a1"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter7/chapter7.qmd": {
-    "chapter7.html": "3c13cd60"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter0/chapter0.qmd": {
-    "chapter0.html": "462a8164"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter9/chapter9.qmd": {
-    "chapter9.html": "62841258"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter10/chapter10.qmd": {
-    "chapter10.html": "cb08d5a8"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter11/chapter11.qmd": {
-    "chapter11.html": "43c79a96"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter5/chapter5.qmd": {
-    "chapter5.html": "035253ef"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter2/chapter2.qmd": {
-    "chapter2.html": "93b82cf7"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter3/chapter3.qmd": {
-    "chapter3.html": "645e2ba4"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter4/chapter4.qmd": {
-    "chapter4.html": "0b498500"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter13/chapter13.qmd": {
-    "chapter13.html": "a9221750"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter14/chapter14.qmd": {
-    "chapter14.html": "79e0eea8"
-  },
-  "GE2021/03_Lecture_Note/LectureNote_Chad/PPT/chapter12/chapter12.qmd": {
-    "chapter12.html": "9b9a1d23"
+  "page_collaboration_manual.qmd": {
+    "page_collaboration_manual.html": "2a681ed0",
+    "page_collaboration_manual.docx": "f36cb8db",
+    "page_collaboration_manual.tex": "081d0cd0"
   },
   "Working/rp_2024_11_corporate_purpose/03_Draft/00_Proposal_Conference/Draft_Matter_Title_Page.Rmd": {
-    "Draft_Matter_Title_Page.html": "91f82404"
+    "Draft_Matter_Title_Page.html": "ae38f2db"
   },
   "Working/rp_2024_11_corporate_purpose/03_Draft/00_Proposal_Conference/Draft_Matter_Author_Bio.Rmd": {
-    "Draft_Matter_Author_Bio.html": "61aa2f0b"
+    "Draft_Matter_Author_Bio.html": "03546d69"
   },
   "Working/rp_2024_11_corporate_purpose/03_Draft/00_Proposal_Conference/Final_Draft.Rmd": {
-    "Final_Draft.html": "4e6d57dd"
+    "Final_Draft.html": "ed3339a7"
   },
   "Working/rp_2024_11_corporate_purpose/03_Draft/00_Proposal_Conference/Draft_Matter_Cover_Letter.Rmd": {
-    "Draft_Matter_Cover_Letter.html": "7b64f3b4"
+    "Draft_Matter_Cover_Letter.html": "e7ae155e"
   },
   "Working/rp_2024_11_corporate_purpose/03_Draft/02_Revision/revision_table.Rmd": {
-    "revision_table.html": "ddbd01d6"
+    "revision_table.html": "6ba91a2b"
   },
   "Working/rp_2024_11_corporate_purpose/03_Draft/02_Revision/revision_draft.Rmd": {
-    "revision_draft.html": "1b8a79ae"
-  },
-  "Working/rp_2024_11_corporate_purpose/02_Analysis/Quan/bib_analysis_01/report/Quarto_report_template_biblioanalysis/Quarto_Manuscript.qmd": {
-    "Quarto_Manuscript.html": "492ed83f",
-    "Quarto_Manuscript.docx": "48ee8538",
-    "Quarto_Manuscript.tex": "77d1737e"
+    "revision_draft.html": "450da271"
   },
   "Working/rp_2024_11_corporate_purpose/02_Analysis/Quan/bib_analysis_01/report/Quarto_report_template_topicmodeling/quarto_report_template.qmd": {
-    "quarto_report_template.html": "3062e21d",
-    "quarto_report_template.docx": "830e7478",
-    "quarto_report_template.tex": "aa7fe480"
+    "quarto_report_template.html": "c8b329c2",
+    "quarto_report_template.docx": "e0a32825",
+    "quarto_report_template.tex": "7b4ddc48"
   },
   "Working/rp_2024_11_corporate_purpose/01_Proposal/01_Proposal.qmd": {
-    "01_Proposal.html": "78a73e85",
-    "01_Proposal.docx": "c018b776",
-    "01_Proposal.tex": "aef04428"
+    "01_Proposal.html": "934ac359",
+    "01_Proposal.docx": "f8212174",
+    "01_Proposal.tex": "c9699c1a"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/lr_quotes_and_paraphrases.qmd": {
-    "lr_quotes_and_paraphrases.html": "27bfbdfd"
+    "lr_quotes_and_paraphrases.html": "ff2ff3db"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/mm_data_collection_strategy.qmd": {
-    "mm_data_collection_strategy.html": "719fe5b8"
+    "mm_data_collection_strategy.html": "93296ac7"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/lr_research_problem.qmd": {
-    "lr_research_problem.html": "bbd128de"
+    "lr_research_problem.html": "8358a8b3"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/rl_analysis_version_log.qmd": {
-    "rl_analysis_version_log.html": "53b17d3e"
+    "rl_analysis_version_log.html": "bec58f22"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/rl_research_log.qmd": {
-    "rl_research_log.html": "ace4dcf1"
+    "rl_research_log.html": "092872f9"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/tf_theoretical_framework.qmd": {
-    "tf_theoretical_framework.html": "228e9f8d"
+    "tf_theoretical_framework.html": "1c605de4"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/index.qmd": {
-    "index.html": "10a6eaf8"
+    "index.html": "d1dd02f8"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/rn_questions_and_answers.qmd": {
-    "rn_questions_and_answers.html": "464bbfa4"
+    "rn_questions_and_answers.html": "58bc6737"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/mm_method.qmd": {
-    "mm_method.html": "875aff37"
+    "mm_method.html": "2393639a"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/pp_product.qmd": {
-    "pp_product.html": "56b6d167"
+    "pp_product.html": "d5e23311"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/lr_search_incl_excl.qmd": {
-    "lr_search_incl_excl.html": "a1235010"
+    "lr_search_incl_excl.html": "9fb707b6"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/mm_methodology.qmd": {
-    "mm_methodology.html": "7e7e4f0b"
+    "mm_methodology.html": "ec940810"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/lr_referencelist.qmd": {
-    "lr_referencelist.html": "b597c120"
+    "lr_referencelist.html": "6f4c94e0"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/rl_meeting_log.qmd": {
-    "rl_meeting_log.html": "65e32874"
+    "rl_meeting_log.html": "d3b52570"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/mm_data.qmd": {
-    "mm_data.html": "cfa10c30"
+    "mm_data.html": "efa7ab74"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/tf_relationship_between_theories.qmd": {
-    "tf_relationship_between_theories.html": "53aa1d11"
+    "tf_relationship_between_theories.html": "596750c6"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/rn_procedures.qmd": {
-    "rn_procedures.html": "646c23ce"
+    "rn_procedures.html": "e1f24cc3"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/references.qmd": {
-    "references.html": "4f5fa2f4"
+    "references.html": "99b38902"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/tf_related_theories.qmd": {
-    "tf_related_theories.html": "d46a1a67"
+    "tf_related_theories.html": "65d80ccd"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/lr_model_and_key_references.qmd": {
-    "lr_model_and_key_references.html": "7ed3cd1a"
+    "lr_model_and_key_references.html": "51c3c5ce"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/rn_ideas_and_thoughts.qmd": {
-    "rn_ideas_and_thoughts.html": "e81ae2a2"
+    "rn_ideas_and_thoughts.html": "41b5b04e"
   },
   "Working/rp_2024_11_corporate_purpose/00_Project/rl_draft_version_log.qmd": {
-    "rl_draft_version_log.html": "2ab77cac"
+    "rl_draft_version_log.html": "33977838"
   },
   "Working/rp_2024_03_kird/03_Draft/00_Proposal_Conference/Draft_Matter_Title_Page.Rmd": {
-    "Draft_Matter_Title_Page.html": "ae53e390"
+    "Draft_Matter_Title_Page.html": "59480ebf"
   },
   "Working/rp_2024_03_kird/03_Draft/00_Proposal_Conference/Draft_Matter_Author_Bio.Rmd": {
-    "Draft_Matter_Author_Bio.html": "47425a3f"
+    "Draft_Matter_Author_Bio.html": "f251ac11"
   },
   "Working/rp_2024_03_kird/03_Draft/00_Proposal_Conference/Final_Draft.Rmd": {
-    "Final_Draft.html": "19e721ca"
+    "Final_Draft.html": "76cb65bb"
   },
   "Working/rp_2024_03_kird/03_Draft/00_Proposal_Conference/Draft_Matter_Cover_Letter.Rmd": {
-    "Draft_Matter_Cover_Letter.html": "f1e4d27d"
+    "Draft_Matter_Cover_Letter.html": "687366bc"
   },
   "Working/rp_2024_03_kird/03_Draft/02_Revision/revision_table.Rmd": {
-    "revision_table.html": "31f233c2"
+    "revision_table.html": "f52baa62"
   },
   "Working/rp_2024_03_kird/03_Draft/02_Revision/revision_draft.Rmd": {
-    "revision_draft.html": "52ecfb8a"
+    "revision_draft.html": "baf1f402"
   },
   "Working/rp_2024_03_kird/01_Proposal/01_Proposal.qmd": {
-    "01_Proposal.html": "b309f6ca",
-    "01_Proposal.docx": "59904dd5",
-    "01_Proposal.tex": "61f47075"
-  },
-  "Working/rp_2024_03_kird/05_Resources/2024년 KIRD 학술대회 공모전/07_Product/프로포절/KIRD(국가과학기술인력개발원) 프로포절.md": {
-    "KIRD(국가과학기술인력개발원) 프로포절.html": "6b9b8cc3"
+    "01_Proposal.html": "676823cf",
+    "01_Proposal.docx": "63734243",
+    "01_Proposal.tex": "218a22fa"
   },
   "Working/rp_2024_03_kird/05_Resources/2024년 KIRD 학술대회 공모전/07_Product/프로포절/성과지표_리터리쳐리뷰.md": {
-    "성과지표_리터리쳐리뷰.html": "872d853f"
+    "성과지표_리터리쳐리뷰.html": "80486775"
   },
   "Working/rp_2024_03_kird/00_Project/lr_quotes_and_paraphrases.qmd": {
-    "lr_quotes_and_paraphrases.html": "0234f643"
+    "lr_quotes_and_paraphrases.html": "2114dae6"
   },
   "Working/rp_2024_03_kird/00_Project/mm_data_collection_strategy.qmd": {
-    "mm_data_collection_strategy.html": "111573db"
+    "mm_data_collection_strategy.html": "cb9fd182"
   },
   "Working/rp_2024_03_kird/00_Project/lr_research_problem.qmd": {
-    "lr_research_problem.html": "74d4c149"
+    "lr_research_problem.html": "1f8db2b9"
   },
   "Working/rp_2024_03_kird/00_Project/rl_analysis_version_log.qmd": {
-    "rl_analysis_version_log.html": "f45515c9"
+    "rl_analysis_version_log.html": "565b0206"
   },
   "Working/rp_2024_03_kird/00_Project/rl_research_log.qmd": {
-    "rl_research_log.html": "5570b24d"
+    "rl_research_log.html": "4ef859ab"
   },
   "Working/rp_2024_03_kird/00_Project/tf_theoretical_framework.qmd": {
-    "tf_theoretical_framework.html": "db5849bd"
+    "tf_theoretical_framework.html": "40c1c8ab"
   },
   "Working/rp_2024_03_kird/00_Project/index.qmd": {
-    "index.html": "cf896dcb"
+    "index.html": "770a9192"
   },
   "Working/rp_2024_03_kird/00_Project/rn_questions_and_answers.qmd": {
-    "rn_questions_and_answers.html": "7df54192"
+    "rn_questions_and_answers.html": "0ed8bf2c"
   },
   "Working/rp_2024_03_kird/00_Project/mm_method.qmd": {
-    "mm_method.html": "b2b932bf"
+    "mm_method.html": "6f2b7067"
   },
   "Working/rp_2024_03_kird/00_Project/pp_product.qmd": {
-    "pp_product.html": "0b59405e"
+    "pp_product.html": "744281a2"
   },
   "Working/rp_2024_03_kird/00_Project/lr_search_incl_excl.qmd": {
-    "lr_search_incl_excl.html": "b325ae5b"
+    "lr_search_incl_excl.html": "b14b4f67"
   },
   "Working/rp_2024_03_kird/00_Project/mm_methodology.qmd": {
-    "mm_methodology.html": "009a280a"
+    "mm_methodology.html": "6eb5b263"
   },
   "Working/rp_2024_03_kird/00_Project/lr_referencelist.qmd": {
-    "lr_referencelist.html": "c628b6b0"
+    "lr_referencelist.html": "3f64b2d3"
   },
   "Working/rp_2024_03_kird/00_Project/rl_meeting_log.qmd": {
-    "rl_meeting_log.html": "1472ae9a"
+    "rl_meeting_log.html": "9d0ff367"
   },
   "Working/rp_2024_03_kird/00_Project/mm_data.qmd": {
-    "mm_data.html": "06d64ce1"
+    "mm_data.html": "02c399f3"
   },
   "Working/rp_2024_03_kird/00_Project/tf_relationship_between_theories.qmd": {
-    "tf_relationship_between_theories.html": "e176119c"
+    "tf_relationship_between_theories.html": "3bea7dd4"
   },
   "Working/rp_2024_03_kird/00_Project/rn_procedures.qmd": {
-    "rn_procedures.html": "6e0a6bf3"
+    "rn_procedures.html": "194ff613"
   },
   "Working/rp_2024_03_kird/00_Project/references.qmd": {
-    "references.html": "a96d6aca"
+    "references.html": "887fac0a"
   },
   "Working/rp_2024_03_kird/00_Project/tf_related_theories.qmd": {
-    "tf_related_theories.html": "c9c5c6e2"
+    "tf_related_theories.html": "372d7e83"
   },
   "Working/rp_2024_03_kird/00_Project/lr_model_and_key_references.qmd": {
-    "lr_model_and_key_references.html": "8820ab56"
+    "lr_model_and_key_references.html": "c35c7fff"
   },
   "Working/rp_2024_03_kird/00_Project/rn_ideas_and_thoughts.qmd": {
-    "rn_ideas_and_thoughts.html": "4499bed5"
+    "rn_ideas_and_thoughts.html": "2f3547fa"
   },
   "Working/rp_2024_03_kird/00_Project/rl_draft_version_log.qmd": {
-    "rl_draft_version_log.html": "a3813f20"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/03_Draft/00_Proposal_Conference/Draft_Matter_Title_Page.Rmd": {
-    "Draft_Matter_Title_Page.html": "23905f7c"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/03_Draft/00_Proposal_Conference/Draft_Matter_Author_Bio.Rmd": {
-    "Draft_Matter_Author_Bio.html": "69df456c"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/03_Draft/00_Proposal_Conference/Final_Draft.Rmd": {
-    "Final_Draft.html": "3aba4f37"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/03_Draft/00_Proposal_Conference/Draft_Matter_Cover_Letter.Rmd": {
-    "Draft_Matter_Cover_Letter.html": "d57a76e3"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/03_Draft/02_Revision/revision_table.Rmd": {
-    "revision_table.html": "cc46da32"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/03_Draft/02_Revision/revision_draft.Rmd": {
-    "revision_draft.html": "f6683f21"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/01_Proposal/01_Proposal.qmd": {
-    "01_Proposal.html": "b7154e27",
-    "01_Proposal.docx": "04b732d3",
-    "01_Proposal.tex": "037efcb0"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/lr_quotes_and_paraphrases.qmd": {
-    "lr_quotes_and_paraphrases.html": "ca6df2ff"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/mm_data_collection_strategy.qmd": {
-    "mm_data_collection_strategy.html": "10f0689a"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/lr_research_problem.qmd": {
-    "lr_research_problem.html": "722cb3de"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/rl_analysis_version_log.qmd": {
-    "rl_analysis_version_log.html": "e662e684"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/rl_research_log.qmd": {
-    "rl_research_log.html": "8771f2e4"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/tf_theoretical_framework.qmd": {
-    "tf_theoretical_framework.html": "e6335725"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/index.qmd": {
-    "index.html": "34151bbb"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/rn_questions_and_answers.qmd": {
-    "rn_questions_and_answers.html": "d73502e9"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/mm_method.qmd": {
-    "mm_method.html": "4ffcc61f"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/pp_product.qmd": {
-    "pp_product.html": "4fb2621f"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/lr_search_incl_excl.qmd": {
-    "lr_search_incl_excl.html": "461f7a7c"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/mm_methodology.qmd": {
-    "mm_methodology.html": "2a291880"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/lr_referencelist.qmd": {
-    "lr_referencelist.html": "fa74c6b7"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/rl_meeting_log.qmd": {
-    "rl_meeting_log.html": "acfe656e"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/mm_data.qmd": {
-    "mm_data.html": "7e2e974d"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/tf_relationship_between_theories.qmd": {
-    "tf_relationship_between_theories.html": "8f3072c8"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/rn_procedures.qmd": {
-    "rn_procedures.html": "dfdb370b"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/references.qmd": {
-    "references.html": "457d198e"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/tf_related_theories.qmd": {
-    "tf_related_theories.html": "8e67ce6e"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/lr_model_and_key_references.qmd": {
-    "lr_model_and_key_references.html": "d1dd8d1f"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/rn_ideas_and_thoughts.qmd": {
-    "rn_ideas_and_thoughts.html": "d672f931"
-  },
-  "Working/rp_2024_04_choi_paper_to_hrdi/00_Project/rl_draft_version_log.qmd": {
-    "rl_draft_version_log.html": "5d42d22b"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/03_Draft/00_Proposal_Conference/Draft_Matter_Title_Page.Rmd": {
-    "Draft_Matter_Title_Page.html": "11e79073"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/03_Draft/00_Proposal_Conference/Draft_Matter_Author_Bio.Rmd": {
-    "Draft_Matter_Author_Bio.html": "e05ef5ac"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/03_Draft/00_Proposal_Conference/Final_Draft.Rmd": {
-    "Final_Draft.html": "2815651a"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/03_Draft/00_Proposal_Conference/Draft_Matter_Cover_Letter.Rmd": {
-    "Draft_Matter_Cover_Letter.html": "9d7bd59d"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/03_Draft/02_Revision/revision_table.Rmd": {
-    "revision_table.html": "b8d42de7"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/03_Draft/02_Revision/revision_draft.Rmd": {
-    "revision_draft.html": "c0db0c4d"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/01_Proposal/01_Proposal.qmd": {
-    "01_Proposal.html": "14b21525",
-    "01_Proposal.docx": "fda4f7a0",
-    "01_Proposal.tex": "b9c04ecf"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/lr_quotes_and_paraphrases.qmd": {
-    "lr_quotes_and_paraphrases.html": "3868ec08"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/mm_data_collection_strategy.qmd": {
-    "mm_data_collection_strategy.html": "e15f8199"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/lr_research_problem.qmd": {
-    "lr_research_problem.html": "21ad5fb2"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/rl_analysis_version_log.qmd": {
-    "rl_analysis_version_log.html": "9edddbf8"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/rl_research_log.qmd": {
-    "rl_research_log.html": "fca4276e"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/tf_theoretical_framework.qmd": {
-    "tf_theoretical_framework.html": "68616962"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/index.qmd": {
-    "index.html": "1e865d4a"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/rn_questions_and_answers.qmd": {
-    "rn_questions_and_answers.html": "ec6b6a17"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/mm_method.qmd": {
-    "mm_method.html": "9ce40057"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/pp_product.qmd": {
-    "pp_product.html": "1c24d0c7"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/lr_search_incl_excl.qmd": {
-    "lr_search_incl_excl.html": "55880415"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/mm_methodology.qmd": {
-    "mm_methodology.html": "fa7ba378"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/lr_referencelist.qmd": {
-    "lr_referencelist.html": "a28f93d6"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/rl_meeting_log.qmd": {
-    "rl_meeting_log.html": "795c5bf9"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/mm_data.qmd": {
-    "mm_data.html": "f7090b6f"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/tf_relationship_between_theories.qmd": {
-    "tf_relationship_between_theories.html": "0557696d"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/rn_procedures.qmd": {
-    "rn_procedures.html": "40caa28d"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/references.qmd": {
-    "references.html": "22e23618"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/tf_related_theories.qmd": {
-    "tf_related_theories.html": "915d80c6"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/lr_model_and_key_references.qmd": {
-    "lr_model_and_key_references.html": "f34123d6"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/rn_ideas_and_thoughts.qmd": {
-    "rn_ideas_and_thoughts.html": "e4968259"
-  },
-  "Working/rp_2025_01_AI_and_Academic_Writing/00_Project/rl_draft_version_log.qmd": {
-    "rl_draft_version_log.html": "28877f3d"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/03_Draft/00_Proposal_Conference/Draft_Matter_Title_Page.Rmd": {
-    "Draft_Matter_Title_Page.html": "939c4266"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/03_Draft/00_Proposal_Conference/Draft_Matter_Author_Bio.Rmd": {
-    "Draft_Matter_Author_Bio.html": "661ee5e8"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/03_Draft/00_Proposal_Conference/Final_Draft.Rmd": {
-    "Final_Draft.html": "8b855041"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/03_Draft/00_Proposal_Conference/Draft_Matter_Cover_Letter.Rmd": {
-    "Draft_Matter_Cover_Letter.html": "7a4b828c"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/03_Draft/02_Revision/revision_table.Rmd": {
-    "revision_table.html": "7e922529"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/03_Draft/02_Revision/revision_draft.Rmd": {
-    "revision_draft.html": "d729d7d8"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/01_Proposal/01_Proposal.qmd": {
-    "01_Proposal.html": "f63b2c1f",
-    "01_Proposal.docx": "84b56031",
-    "01_Proposal.tex": "b3e104ad"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/lr_quotes_and_paraphrases.qmd": {
-    "lr_quotes_and_paraphrases.html": "8463901e"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/mm_data_collection_strategy.qmd": {
-    "mm_data_collection_strategy.html": "c06c918d"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/lr_research_problem.qmd": {
-    "lr_research_problem.html": "c45cbf7a"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/rl_analysis_version_log.qmd": {
-    "rl_analysis_version_log.html": "e2b870c2"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/rl_research_log.qmd": {
-    "rl_research_log.html": "780e67d3"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/tf_theoretical_framework.qmd": {
-    "tf_theoretical_framework.html": "315a0186"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/index.qmd": {
-    "index.html": "2bae4c27"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/rn_questions_and_answers.qmd": {
-    "rn_questions_and_answers.html": "acb0c8a3"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/mm_method.qmd": {
-    "mm_method.html": "a754d91f"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/pp_product.qmd": {
-    "pp_product.html": "9991f928"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/lr_search_incl_excl.qmd": {
-    "lr_search_incl_excl.html": "53187130"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/mm_methodology.qmd": {
-    "mm_methodology.html": "4e6102e3"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/lr_referencelist.qmd": {
-    "lr_referencelist.html": "0cd32d0b"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/rl_meeting_log.qmd": {
-    "rl_meeting_log.html": "c40066a2"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/mm_data.qmd": {
-    "mm_data.html": "c3a338f4"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/tf_relationship_between_theories.qmd": {
-    "tf_relationship_between_theories.html": "49b4e5f0"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/rn_procedures.qmd": {
-    "rn_procedures.html": "184190de"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/references.qmd": {
-    "references.html": "c47e45dd"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/tf_related_theories.qmd": {
-    "tf_related_theories.html": "f7361c0f"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/lr_model_and_key_references.qmd": {
-    "lr_model_and_key_references.html": "32e15aa6"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/rn_ideas_and_thoughts.qmd": {
-    "rn_ideas_and_thoughts.html": "16dd88c3"
-  },
-  "Working/rp_2024_09_sp_IJEBR_2024_dec_31_AI_Entrepre/00_Project/rl_draft_version_log.qmd": {
-    "rl_draft_version_log.html": "6c787c78"
+    "rl_draft_version_log.html": "f9b907b5"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/03_Draft/00_Proposal_Conference/Draft_Matter_Title_Page.Rmd": {
-    "Draft_Matter_Title_Page.html": "fd5a985a"
+    "Draft_Matter_Title_Page.html": "af0b971d"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/03_Draft/00_Proposal_Conference/Draft_Matter_Author_Bio.Rmd": {
-    "Draft_Matter_Author_Bio.html": "6809ae9b"
+    "Draft_Matter_Author_Bio.html": "638f18ff"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/03_Draft/00_Proposal_Conference/Final_Draft.Rmd": {
-    "Final_Draft.html": "2056462d"
+    "Final_Draft.html": "6c2ba729"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/03_Draft/00_Proposal_Conference/Draft_Matter_Cover_Letter.Rmd": {
-    "Draft_Matter_Cover_Letter.html": "a4297731"
+    "Draft_Matter_Cover_Letter.html": "b8b9daea"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/03_Draft/02_Revision/revision_table.Rmd": {
-    "revision_table.html": "e4a53bae"
+    "revision_table.html": "70c26690"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/03_Draft/02_Revision/revision_draft.Rmd": {
-    "revision_draft.html": "f0ba63bb"
+    "revision_draft.html": "00f5d7ee"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Draft/01_Proposal_Draft/draft.Rmd": {
-    "draft.html": "4adf71c5"
+    "draft.html": "ddd75c42"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Draft/03_Revision/revision_table.Rmd": {
-    "revision_table.html": "1effb596"
+    "revision_table.html": "c034a391"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Draft/03_Revision/revision_draft.Rmd": {
-    "revision_draft.html": "eca4d533"
+    "revision_draft.html": "1d3232b9"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis4/script/python/한글품사추출-명사.ipynb": {
-    "한글품사추출-명사.html": "3f726704"
+    "한글품사추출-명사.html": "f9d11ace"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis4/script/python/명사어근추출.ipynb": {
-    "명사어근추출.html": "e34fa9b9"
-  },
-  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis4/report/codebook.rmd.Rmd": {
-    "codebook.rmd.html": "932e044e"
+    "명사어근추출.html": "27d97853"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis3/script/python/명사어근추출.ipynb": {
-    "명사어근추출.html": "68fbb38b"
+    "명사어근추출.html": "a76a1b00"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis2/script/python/명사어근추출.ipynb": {
-    "명사어근추출.html": "16f2c18a"
-  },
-  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis2/report/codebook.rmd.Rmd": {
-    "codebook.rmd.html": "4ab71938"
+    "명사어근추출.html": "2f41ae2e"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis5/script/python/명사어근추출.ipynb": {
-    "명사어근추출.html": "2ed59b52"
-  },
-  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis5/report/codebook.rmd.Rmd": {
-    "codebook.rmd.html": "cb99bf69"
-  },
-  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis0/report/research_note.Rmd": {
-    "research_note.html": "12fa1500"
-  },
-  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis0/report/report1.Rmd": {
-    "report1.html": "8ce19a98"
-  },
-  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis0/report/codebook.rmd.Rmd": {
-    "codebook.rmd.html": "b988b120"
+    "명사어근추출.html": "387c4e90"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis0/ppt/presentation.Rmd": {
-    "presentation.html": "76f5a8e2"
+    "presentation.html": "effe009f"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis7/python/명사어근추출.ipynb": {
-    "명사어근추출.html": "754176de"
+    "명사어근추출.html": "fa08e79d"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis7/codebook/codebook.rmd.Rmd": {
-    "codebook.rmd.html": "5ca973eb"
+    "codebook.rmd.html": "a7c50f02"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis8/python/명사어근추출.ipynb": {
-    "명사어근추출.html": "7384e5eb"
+    "명사어근추출.html": "d1a30924"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis6/python/명사어근추출.ipynb": {
-    "명사어근추출.html": "d4862307"
+    "명사어근추출.html": "ad0f4879"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Analysis/Analysis_quant/Analysis6/codebook/codebook.rmd.Rmd": {
-    "codebook.rmd.html": "24fde648"
+    "codebook.rmd.html": "a36c1a89"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Resource/Woman Leader Topic Modeling/Proposal/reference.md": {
-    "reference.html": "c8780833"
+    "reference.html": "64b3a0c0"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Resource/Woman Leader Topic Modeling/Proposal/note.md": {
-    "note.html": "830a7844"
+    "note.html": "fbd003d1"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Resource/Woman Leader Topic Modeling/Proposal/questions.md": {
-    "questions.html": "77db7160"
+    "questions.html": "e898411e"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Resource/Woman Leader Topic Modeling/Proposal/resource.md": {
-    "resource.html": "c406aa9e"
+    "resource.html": "131d29c2"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Resource/Woman Leader Topic Modeling/Proposal/procedure.md": {
-    "procedure.html": "155e3323"
+    "procedure.html": "968fe9ff"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Resource/cho_woman_leadership1/draft/Contents from IRB.Rmd": {
-    "Contents from IRB.html": "4886dd07"
+    "Contents from IRB.html": "86b5d994"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/Resource/cho_woman_leadership1/draft/draft.Rmd": {
-    "draft.html": "d9df7a07"
+    "draft.html": "d387c164"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/lr_quotes_and_paraphrases.qmd": {
-    "lr_quotes_and_paraphrases.html": "9b50381c"
+    "lr_quotes_and_paraphrases.html": "6054567e"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/mm_data_collection_strategy.qmd": {
-    "mm_data_collection_strategy.html": "da4508ce"
+    "mm_data_collection_strategy.html": "7da32316"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/lr_research_problem.qmd": {
-    "lr_research_problem.html": "ff97c60b"
+    "lr_research_problem.html": "07a5f043"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/rl_analysis_version_log.qmd": {
-    "rl_analysis_version_log.html": "5d3bffe1"
+    "rl_analysis_version_log.html": "df70b594"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/rl_research_log.qmd": {
-    "rl_research_log.html": "8ef4dcab"
+    "rl_research_log.html": "dd62c961"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/tf_theoretical_framework.qmd": {
-    "tf_theoretical_framework.html": "c23ac9d0"
+    "tf_theoretical_framework.html": "172f2d87"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/index.qmd": {
-    "index.html": "00efccf0"
+    "index.html": "2c572e10"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/rn_questions_and_answers.qmd": {
-    "rn_questions_and_answers.html": "60ba8513"
+    "rn_questions_and_answers.html": "df1d93c1"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/mm_method.qmd": {
-    "mm_method.html": "3fc9c087"
+    "mm_method.html": "cb1ec57d"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/pp_product.qmd": {
-    "pp_product.html": "d38071be"
+    "pp_product.html": "7464538a"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/lr_search_incl_excl.qmd": {
-    "lr_search_incl_excl.html": "1162f77d"
+    "lr_search_incl_excl.html": "db8e4845"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/mm_methodology.qmd": {
-    "mm_methodology.html": "c578508c"
+    "mm_methodology.html": "f54d16f9"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/lr_referencelist.qmd": {
-    "lr_referencelist.html": "ba06110f"
+    "lr_referencelist.html": "5a67d5fe"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/rl_meeting_log.qmd": {
-    "rl_meeting_log.html": "5b5d11e2"
+    "rl_meeting_log.html": "ebe231d1"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/mm_data.qmd": {
-    "mm_data.html": "4968b8fe"
+    "mm_data.html": "4525b226"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/tf_relationship_between_theories.qmd": {
-    "tf_relationship_between_theories.html": "9d362095"
+    "tf_relationship_between_theories.html": "a6f59019"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/rn_procedures.qmd": {
-    "rn_procedures.html": "fb17d134"
+    "rn_procedures.html": "95b0fe24"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/references.qmd": {
-    "references.html": "ecd3b9bd"
+    "references.html": "c7437aed"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/tf_related_theories.qmd": {
-    "tf_related_theories.html": "4e5fb15a"
+    "tf_related_theories.html": "f04163ac"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/lr_model_and_key_references.qmd": {
-    "lr_model_and_key_references.html": "5db05bfc"
+    "lr_model_and_key_references.html": "09778b90"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/rn_ideas_and_thoughts.qmd": {
-    "rn_ideas_and_thoughts.html": "08abff8a"
+    "rn_ideas_and_thoughts.html": "0d3c2300"
   },
   "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/00_Project/rl_draft_version_log.qmd": {
-    "rl_draft_version_log.html": "7b346c96"
+    "rl_draft_version_log.html": "c9b1c558"
+  },
+  "Working/sspf_2025_summer/03_Draft/02_Revision/revision_table.Rmd": {
+    "revision_table.html": "b480bb64"
+  },
+  "Working/sspf_2025_summer/03_Draft/02_Revision/revision_draft.Rmd": {
+    "revision_draft.html": "eff7c976"
+  },
+  "Working/sspf_2025_summer/01_Proposal/01_Proposal.qmd": {
+    "01_Proposal.html": "580c6d55",
+    "01_Proposal.docx": "710219fa",
+    "01_Proposal.tex": "5ade1ab9"
+  },
+  "Working/sspf_2025_summer/00_Project/lr_quotes_and_paraphrases.qmd": {
+    "lr_quotes_and_paraphrases.html": "dbe686d8"
+  },
+  "Working/sspf_2025_summer/00_Project/mm_data_collection_strategy.qmd": {
+    "mm_data_collection_strategy.html": "f13d40ab"
+  },
+  "Working/sspf_2025_summer/00_Project/lr_research_problem.qmd": {
+    "lr_research_problem.html": "96495275"
+  },
+  "Working/sspf_2025_summer/00_Project/rl_analysis_version_log.qmd": {
+    "rl_analysis_version_log.html": "e03a811f"
+  },
+  "Working/sspf_2025_summer/00_Project/rl_research_log.qmd": {
+    "rl_research_log.html": "b54f950a"
+  },
+  "Working/sspf_2025_summer/00_Project/tf_theoretical_framework.qmd": {
+    "tf_theoretical_framework.html": "37105fdd"
+  },
+  "Working/sspf_2025_summer/00_Project/index.qmd": {
+    "index.html": "b07eb2fa"
+  },
+  "Working/sspf_2025_summer/00_Project/rn_questions_and_answers.qmd": {
+    "rn_questions_and_answers.html": "e808c83e"
+  },
+  "Working/sspf_2025_summer/00_Project/mm_method.qmd": {
+    "mm_method.html": "1f620651"
+  },
+  "Working/sspf_2025_summer/00_Project/pp_product.qmd": {
+    "pp_product.html": "d072e47c"
+  },
+  "Working/sspf_2025_summer/00_Project/lr_search_incl_excl.qmd": {
+    "lr_search_incl_excl.html": "8069170c"
+  },
+  "Working/sspf_2025_summer/00_Project/mm_methodology.qmd": {
+    "mm_methodology.html": "002475e8"
+  },
+  "Working/sspf_2025_summer/00_Project/lr_referencelist.qmd": {
+    "lr_referencelist.html": "5697187b"
+  },
+  "Working/sspf_2025_summer/00_Project/rl_meeting_log.qmd": {
+    "rl_meeting_log.html": "745fd258"
+  },
+  "Working/sspf_2025_summer/00_Project/mm_data.qmd": {
+    "mm_data.html": "d4da8420"
+  },
+  "Working/sspf_2025_summer/00_Project/tf_relationship_between_theories.qmd": {
+    "tf_relationship_between_theories.html": "2879e2b5"
+  },
+  "Working/sspf_2025_summer/00_Project/rn_procedures.qmd": {
+    "rn_procedures.html": "35d50840"
+  },
+  "Working/sspf_2025_summer/00_Project/references.qmd": {
+    "references.html": "919c3f94"
+  },
+  "Working/sspf_2025_summer/00_Project/tf_related_theories.qmd": {
+    "tf_related_theories.html": "bb72e9fd"
+  },
+  "Working/sspf_2025_summer/00_Project/lr_model_and_key_references.qmd": {
+    "lr_model_and_key_references.html": "a1f5f3b0"
+  },
+  "Working/sspf_2025_summer/00_Project/rn_ideas_and_thoughts.qmd": {
+    "rn_ideas_and_thoughts.html": "b4e6646f"
+  },
+  "Working/sspf_2025_summer/00_Project/rl_draft_version_log.qmd": {
+    "rl_draft_version_log.html": "151502d4"
   },
   "Working/rp_2024_01_tourism_bib_top/03_Draft/00_Proposal_Conference/Draft_Matter_Title_Page.Rmd": {
-    "Draft_Matter_Title_Page.html": "6414c5cc"
+    "Draft_Matter_Title_Page.html": "7007bec7"
   },
   "Working/rp_2024_01_tourism_bib_top/03_Draft/00_Proposal_Conference/Draft_Matter_Author_Bio.Rmd": {
-    "Draft_Matter_Author_Bio.html": "136d400a"
+    "Draft_Matter_Author_Bio.html": "bf9c2612"
   },
   "Working/rp_2024_01_tourism_bib_top/03_Draft/00_Proposal_Conference/Final_Draft.Rmd": {
-    "Final_Draft.html": "1ab8ec03"
+    "Final_Draft.html": "fa8250a7"
   },
   "Working/rp_2024_01_tourism_bib_top/03_Draft/00_Proposal_Conference/Draft_Matter_Cover_Letter.Rmd": {
-    "Draft_Matter_Cover_Letter.html": "afb32c0d"
+    "Draft_Matter_Cover_Letter.html": "94fc4b83"
   },
   "Working/rp_2024_01_tourism_bib_top/03_Draft/02_Revision/revision_table.Rmd": {
-    "revision_table.html": "5e676b8e"
+    "revision_table.html": "603b0aee"
   },
   "Working/rp_2024_01_tourism_bib_top/03_Draft/02_Revision/revision_draft.Rmd": {
-    "revision_draft.html": "44f9f17c"
+    "revision_draft.html": "d2ecf230"
   },
   "Working/rp_2024_01_tourism_bib_top/02_Analysis/Quan/Analysis1/report_Template.qmd": {
-    "report_Template.html": "bf3105b4",
-    "report_Template.docx": "53583631",
-    "report_Template.tex": "81d51cbc"
+    "report_Template.html": "835cf4c1",
+    "report_Template.docx": "efc5505d",
+    "report_Template.tex": "639846a3"
   },
   "Working/rp_2024_01_tourism_bib_top/02_Analysis/Quan/Analysis1/report_withoutTandF.qmd": {
-    "report_withoutTandF.html": "8b4158fa",
-    "report_withoutTandF.docx": "97abee72",
-    "report_withoutTandF.tex": "de91bbb8"
+    "report_withoutTandF.html": "5b762770",
+    "report_withoutTandF.docx": "7eb973bd",
+    "report_withoutTandF.tex": "e81e5f6e"
   },
   "Working/rp_2024_01_tourism_bib_top/02_Analysis/Quan/Analysis1/report.qmd": {
-    "report.html": "6e2c042a",
-    "report.docx": "4638b2ca",
-    "report.tex": "059bcb70"
+    "report.html": "20f7d8d2",
+    "report.docx": "15ad4eda",
+    "report.tex": "3e4fd859"
   },
   "Working/rp_2024_01_tourism_bib_top/01_Proposal/01_Proposal.qmd": {
-    "01_Proposal.html": "4fba440b",
-    "01_Proposal.docx": "a65c451e",
-    "01_Proposal.tex": "6f19cbea"
+    "01_Proposal.html": "f2382694",
+    "01_Proposal.docx": "096895c4",
+    "01_Proposal.tex": "0f63636e"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Model Paper/2013, Vogel - The Dynamic Capability View in Strategic Management- A Bibliometric Review.md": {
-    "2013, Vogel - The Dynamic Capability View in Strategic Management- A Bibliometric Review.html": "24d16e69"
+    "2013, Vogel - The Dynamic Capability View in Strategic Management- A Bibliometric Review.html": "0b6aa1f5"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Model Paper/2010 Wang - Knowledge sharing- A review and directions for future research.md": {
-    "2010 Wang - Knowledge sharing- A review and directions for future research.html": "5150c5cf"
+    "2010 Wang - Knowledge sharing- A review and directions for future research.html": "c101ad2a"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Article and Book Chapter/2017-fernandes-The dynamic capabilities perspective of strategic management- a co-citation analysis.md": {
-    "2017-fernandes-The dynamic capabilities perspective of strategic management- a co-citation analysis.html": "0be62d52"
+    "2017-fernandes-The dynamic capabilities perspective of strategic management- a co-citation analysis.html": "94410c5b"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Article and Book Chapter/2013, Chen - The structure and dynamics of scientific knowledge.md": {
-    "2013, Chen - The structure and dynamics of scientific knowledge.html": "59c73d69"
+    "2013, Chen - The structure and dynamics of scientific knowledge.html": "33b2c1d0"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Article and Book Chapter/2015, Zupic - Bibliometric Methods in Management and Organization copy.md": {
-    "2015, Zupic - Bibliometric Methods in Management and Organization copy.html": "18d1f0f3"
+    "2015, Zupic - Bibliometric Methods in Management and Organization copy.html": "f173081d"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2019-Comerio-Tourism and its economic impact - a literature revierw using bibliometric..md": {
-    "2019-Comerio-Tourism and its economic impact - a literature revierw using bibliometric..html": "5538719b"
+    "2019-Comerio-Tourism and its economic impact - a literature revierw using bibliometric..html": "3039fee1"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2022-chen-A bibliometric analysis of natural disasters and business management in tourism.md": {
-    "2022-chen-A bibliometric analysis of natural disasters and business management in tourism.html": "a07616d8"
+    "2022-chen-A bibliometric analysis of natural disasters and business management in tourism.html": "715007e7"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2017-Estevao-Convergence in tourism management research- a bibliometric analysis.md": {
-    "2017-Estevao-Convergence in tourism management research- a bibliometric analysis.html": "930b20af"
+    "2017-Estevao-Convergence in tourism management research- a bibliometric analysis.html": "4dfa3e50"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2021-HerreraFranco-Worldwide Research on Geoparks through Bibliometric Analysis.md": {
-    "2021-HerreraFranco-Worldwide Research on Geoparks through Bibliometric Analysis.html": "bcbae255"
+    "2021-HerreraFranco-Worldwide Research on Geoparks through Bibliometric Analysis.html": "108ad342"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2021-shahbaz-A bibliometric analysis and systematic literature review of tourism-environmental degradation nexus.md": {
-    "2021-shahbaz-A bibliometric analysis and systematic literature review of tourism-environmental degradation nexus.html": "e0e05e13"
+    "2021-shahbaz-A bibliometric analysis and systematic literature review of tourism-environmental degradation nexus.html": "dba34534"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2019-MuletForteza-A bibliometric research in the tourism, leisure and hospitality fields.md": {
-    "2019-MuletForteza-A bibliometric research in the tourism, leisure and hospitality fields.html": "f4bff379"
+    "2019-MuletForteza-A bibliometric research in the tourism, leisure and hospitality fields.html": "25595840"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2021-Rusydiana-Halal Tourism Indicators- A Bibliometric Study.md": {
-    "2021-Rusydiana-Halal Tourism Indicators- A Bibliometric Study.html": "c0e68625"
+    "2021-Rusydiana-Halal Tourism Indicators- A Bibliometric Study.html": "06d60a84"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2020-HerreraFranco-Research Trends in Geotourism- A Bibliometric Analysis Using the Scopus Database.md": {
-    "2020-HerreraFranco-Research Trends in Geotourism- A Bibliometric Analysis Using the Scopus Database.html": "ad469914"
+    "2020-HerreraFranco-Research Trends in Geotourism- A Bibliometric Analysis Using the Scopus Database.html": "646d9404"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2016-Koseoglu-Bibliometric studies in tourism.md": {
-    "2016-Koseoglu-Bibliometric studies in tourism.html": "1e79f286"
+    "2016-Koseoglu-Bibliometric studies in tourism.html": "e6418a98"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2020-Donthu-Mapping of Journal of Service Research Themes- A 22-Year Review.md": {
-    "2020-Donthu-Mapping of Journal of Service Research Themes- A 22-Year Review.html": "c9dcb846"
+    "2020-Donthu-Mapping of Journal of Service Research Themes- A 22-Year Review.html": "2d9dd39c"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2021-Fores-A Bibliometric Overview of Tourism Family Business.md": {
-    "2021-Fores-A Bibliometric Overview of Tourism Family Business.html": "cc5acc82"
+    "2021-Fores-A Bibliometric Overview of Tourism Family Business.html": "3c3bc9e4"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2019-Leong-Tourism research progress – a bibliometric analysis of tourism review publications.md": {
-    "2019-Leong-Tourism research progress – a bibliometric analysis of tourism review publications.html": "f5f28079"
+    "2019-Leong-Tourism research progress – a bibliometric analysis of tourism review publications.html": "e6146dbd"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2020-Sanchaz-Bibliometric study of tourism destination image in Science Direct.md": {
-    "2020-Sanchaz-Bibliometric study of tourism destination image in Science Direct.html": "880d13c5"
+    "2020-Sanchaz-Bibliometric study of tourism destination image in Science Direct.html": "6e0264f9"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2016-Strandberg-Tourism research in the new millennium- A bibliometric review of literaturein Tourism and Hospitality Research.md": {
-    "2016-Strandberg-Tourism research in the new millennium- A bibliometric review of literaturein Tourism and Hospitality Research.html": "ef39ac0c"
+    "2016-Strandberg-Tourism research in the new millennium- A bibliometric review of literaturein Tourism and Hospitality Research.html": "7d666e46"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2015-merigo-A bibliometric overview of the Journal of Business Research between 1973 and 2014.md": {
-    "2015-merigo-A bibliometric overview of the Journal of Business Research between 1973 and 2014.html": "4756184d"
+    "2015-merigo-A bibliometric overview of the Journal of Business Research between 1973 and 2014.html": "86950262"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2014-Liu-A research growth of tourism innovation from bibliometric perspective.md": {
-    "2014-Liu-A research growth of tourism innovation from bibliometric perspective.html": "0ed1621d"
+    "2014-Liu-A research growth of tourism innovation from bibliometric perspective.html": "96906be5"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2020-Graciano-Bibliometric analysis of scientific literature on community- based tourism from 2013 to 2018.md": {
-    "2020-Graciano-Bibliometric analysis of scientific literature on community- based tourism from 2013 to 2018.html": "32235bd5"
+    "2020-Graciano-Bibliometric analysis of scientific literature on community- based tourism from 2013 to 2018.html": "b87d9807"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2010-Ostrom-Moving Forward and Making a Difference- Research Priorities for the Science of Service.md": {
-    "2010-Ostrom-Moving Forward and Making a Difference- Research Priorities for the Science of Service.html": "4d110ef8"
+    "2010-Ostrom-Moving Forward and Making a Difference- Research Priorities for the Science of Service.html": "22c4a0f2"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2013-Stone-the educational genefits of travel experience - a literature review.md": {
-    "2013-Stone-the educational genefits of travel experience - a literature review.html": "212ef98a"
+    "2013-Stone-the educational genefits of travel experience - a literature review.html": "9f22df44"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2021-BastidasManzano-The past, present, and future of smart tourism destinations - a bibliometric analysis.md": {
-    "2021-BastidasManzano-The past, present, and future of smart tourism destinations - a bibliometric analysis.html": "e6023906"
+    "2021-BastidasManzano-The past, present, and future of smart tourism destinations - a bibliometric analysis.html": "1e007cea"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2022-Schweignsberg-Competitive positioning of tourism academic knowledge.md": {
-    "2022-Schweignsberg-Competitive positioning of tourism academic knowledge.html": "f75dba0d"
+    "2022-Schweignsberg-Competitive positioning of tourism academic knowledge.html": "25865ec0"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2016-goeldener-A Look at the Travel Research Reference Center.md": {
-    "2016-goeldener-A Look at the Travel Research Reference Center.html": "c1963af0"
+    "2016-goeldener-A Look at the Travel Research Reference Center.html": "c79c51be"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2019-Vazquez-Nautical tourism - a bibliometric analysis.md": {
-    "2019-Vazquez-Nautical tourism - a bibliometric analysis.html": "126c84d0"
+    "2019-Vazquez-Nautical tourism - a bibliometric analysis.html": "01e554b0"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2021-Soliman-Mapping smart experiences in tourism- A bibliometric approach.md": {
-    "2021-Soliman-Mapping smart experiences in tourism- A bibliometric approach.html": "a00e865a"
+    "2021-Soliman-Mapping smart experiences in tourism- A bibliometric approach.html": "052883c8"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2015-Merigo-An overview of fuzzy research with bibliometric indicators.md": {
-    "2015-Merigo-An overview of fuzzy research with bibliometric indicators.html": "241f4ba1"
+    "2015-Merigo-An overview of fuzzy research with bibliometric indicators.html": "fcb08848"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2017-Guzeller-Experimental Researches in Tourism- A Bibliometric Analysis.md": {
-    "2017-Guzeller-Experimental Researches in Tourism- A Bibliometric Analysis.html": "e8457b5b"
+    "2017-Guzeller-Experimental Researches in Tourism- A Bibliometric Analysis.html": "a5cf9413"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2021-Utkarch-A bibliometric review of research on COVID-19 and tourism- Reflections for moving forwar.md": {
-    "2021-Utkarch-A bibliometric review of research on COVID-19 and tourism- Reflections for moving forwar.html": "6b8c8c37"
+    "2021-Utkarch-A bibliometric review of research on COVID-19 and tourism- Reflections for moving forwar.html": "89b6e85f"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2020-Liu-Ecotourism Research Progress- A Bibliometric Analysis During 1990–2016.md": {
-    "2020-Liu-Ecotourism Research Progress- A Bibliometric Analysis During 1990–2016.html": "9f7fe0a2"
+    "2020-Liu-Ecotourism Research Progress- A Bibliometric Analysis During 1990–2016.html": "7e330774"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/1979-Jafari-TOURISM AND THE SOCIAL SCIENCES A Bibliography- 1970- 1978.md": {
-    "1979-Jafari-TOURISM AND THE SOCIAL SCIENCES A Bibliography- 1970- 1978.html": "3867e892"
+    "1979-Jafari-TOURISM AND THE SOCIAL SCIENCES A Bibliography- 1970- 1978.html": "605c35ea"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Biblio in Tourism/2022-JimenezGaricia-A Bibliometric Analysis of Sports Tourism and Sustainability (2002–2019).md": {
-    "2022-JimenezGaricia-A Bibliometric Analysis of Sports Tourism and Sustainability (2002–2019).html": "18f32bce"
+    "2022-JimenezGaricia-A Bibliometric Analysis of Sports Tourism and Sustainability (2002–2019).html": "82aec83a"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Books/2014, Ding - Measuring scholarly impact.md": {
-    "2014, Ding - Measuring scholarly impact.html": "53821972"
+    "2014, Ding - Measuring scholarly impact.html": "19518d1b"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Turism Biblio/Previous - Biblio/Books/2013, Chen - Mapping Scientific Frontiers.md": {
-    "2013, Chen - Mapping Scientific Frontiers.html": "30c37dce"
+    "2013, Chen - Mapping Scientific Frontiers.html": "e9672cf5"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2004 Gilbert Holidaytaking and the sense of well-being.md": {
-    "2004 Gilbert Holidaytaking and the sense of well-being.html": "0f9cfeba"
+    "2004 Gilbert Holidaytaking and the sense of well-being.html": "af5cab51"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2011 Nawijn Happiness Through Vacationing- Just a Temporary Boost or Long-Term Benefits-.md": {
-    "2011 Nawijn Happiness Through Vacationing- Just a Temporary Boost or Long-Term Benefits-.html": "02c3c84e"
+    "2011 Nawijn Happiness Through Vacationing- Just a Temporary Boost or Long-Term Benefits-.html": "78f52166"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2020 Vada Positive psychology and tourist well-being- A systematic literature review.md": {
-    "2020 Vada Positive psychology and tourist well-being- A systematic literature review.html": "1bd56ff1"
+    "2020 Vada Positive psychology and tourist well-being- A systematic literature review.html": "31fd2b8e"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2014 Chen Tourism Experiences as a Stress Reliever- Examining the Effects of Tourism Recovery Experiences on Life Satisfaction.md": {
-    "2014 Chen Tourism Experiences as a Stress Reliever- Examining the Effects of Tourism Recovery Experiences on Life Satisfaction.html": "bf75599e"
+    "2014 Chen Tourism Experiences as a Stress Reliever- Examining the Effects of Tourism Recovery Experiences on Life Satisfaction.html": "d1b480db"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2017 Smith Tourism and wellbeing.md": {
-    "2017 Smith Tourism and wellbeing.html": "a7d94675"
+    "2017 Smith Tourism and wellbeing.html": "7cc7c0b1"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2017 Sthapit Memorable tourism experiences- antecedents and outcomes.md": {
-    "2017 Sthapit Memorable tourism experiences- antecedents and outcomes.html": "60be0bce"
+    "2017 Sthapit Memorable tourism experiences- antecedents and outcomes.html": "cf3e4f20"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2018 Rahmani Hedonic and eudaimonic well-being- A psycholinguistic view.md": {
-    "2018 Rahmani Hedonic and eudaimonic well-being- A psycholinguistic view.html": "96128ed2"
+    "2018 Rahmani Hedonic and eudaimonic well-being- A psycholinguistic view.html": "be0f5f18"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2018 Garces Positive psychology and tourism- a systematic literature review.md": {
-    "2018 Garces Positive psychology and tourism- a systematic literature review.html": "02cd2f61"
+    "2018 Garces Positive psychology and tourism- a systematic literature review.html": "b72aae30"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2019 Houge Adventure recreation and subjective well-being- a conceptual framework.md": {
-    "2019 Houge Adventure recreation and subjective well-being- a conceptual framework.html": "dfff3476"
+    "2019 Houge Adventure recreation and subjective well-being- a conceptual framework.html": "ebf677c5"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2012 Koncul Wellness- A New Mode of tourism.md": {
-    "2012 Koncul Wellness- A New Mode of tourism.html": "bc3935cf"
+    "2012 Koncul Wellness- A New Mode of tourism.html": "aa0cd5dd"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2018 Chen Tourism as a Pathway to the Good Life- Comparing the Top–Down and Bottom–Up Effects.md": {
-    "2018 Chen Tourism as a Pathway to the Good Life- Comparing the Top–Down and Bottom–Up Effects.html": "b2c2966b"
+    "2018 Chen Tourism as a Pathway to the Good Life- Comparing the Top–Down and Bottom–Up Effects.html": "a1940b60"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2016 Io Exploring the impact of hedonic activities on casino-hotel visitors' positive emotions and satisfaction.md": {
-    "2016 Io Exploring the impact of hedonic activities on casino-hotel visitors' positive emotions and satisfaction.html": "77ba5a23"
+    "2016 Io Exploring the impact of hedonic activities on casino-hotel visitors' positive emotions and satisfaction.html": "b216eb33"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2016 Liang Residents’ quality of life and attitudes toward tourism development in China.md": {
-    "2016 Liang Residents’ quality of life and attitudes toward tourism development in China.html": "7285adbb"
+    "2016 Liang Residents’ quality of life and attitudes toward tourism development in China.html": "d773b267"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2016 Pyke Exploring well-being as a tourism product resource.md": {
-    "2016 Pyke Exploring well-being as a tourism product resource.html": "6b995a54"
+    "2016 Pyke Exploring well-being as a tourism product resource.html": "69aa1649"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2020 Kwon Why travel prolongs happiness- Longitudinal analysis using a latent growth model.md": {
-    "2020 Kwon Why travel prolongs happiness- Longitudinal analysis using a latent growth model.html": "21a30045"
+    "2020 Kwon Why travel prolongs happiness- Longitudinal analysis using a latent growth model.html": "c511e00a"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2016 Rivera Tourism development and happiness- A residents’ perspective.md": {
-    "2016 Rivera Tourism development and happiness- A residents’ perspective.html": "ce3903d2"
+    "2016 Rivera Tourism development and happiness- A residents’ perspective.html": "9dd1c966"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2018 Filep Trends and Directions in Tourism and Positive Psychology.md": {
-    "2018 Filep Trends and Directions in Tourism and Positive Psychology.html": "666505ba"
+    "2018 Filep Trends and Directions in Tourism and Positive Psychology.html": "d6a83f45"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2018 Rahmani A Psycholinguistic View of Tourists’ Emotional Experiences.md": {
-    "2018 Rahmani A Psycholinguistic View of Tourists’ Emotional Experiences.html": "9da2789a"
+    "2018 Rahmani A Psycholinguistic View of Tourists’ Emotional Experiences.html": "7f3beea0"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2012 McCabe The happiness factor in tourism - subjective well-being and social tourism.md": {
-    "2012 McCabe The happiness factor in tourism - subjective well-being and social tourism.html": "fc2a8c7c"
+    "2012 McCabe The happiness factor in tourism - subjective well-being and social tourism.html": "13d653d5"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2014 Lin Changes in emotions and their interactions with personality in a vacation context.md": {
-    "2014 Lin Changes in emotions and their interactions with personality in a vacation context.html": "82338a79"
+    "2014 Lin Changes in emotions and their interactions with personality in a vacation context.html": "20b7cd54"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2016 Servidio Exploring the relationship between emotions and memorable tourism experiences through narratives.md": {
-    "2016 Servidio Exploring the relationship between emotions and memorable tourism experiences through narratives.html": "1327f2a1"
+    "2016 Servidio Exploring the relationship between emotions and memorable tourism experiences through narratives.html": "273b00ae"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2014 Filep Moving beyond subjectve well-being - atourism critique.md": {
-    "2014 Filep Moving beyond subjectve well-being - atourism critique.html": "808f20b5"
+    "2014 Filep Moving beyond subjectve well-being - atourism critique.html": "437abd4a"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2018 Lee Tourists’ happiness- are there smart tourism technology effects-.md": {
-    "2018 Lee Tourists’ happiness- are there smart tourism technology effects-.html": "87d79f8c"
+    "2018 Lee Tourists’ happiness- are there smart tourism technology effects-.html": "ffd10ef9"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2017 Luo Towards quality of life- the effects of the wellness tourism experience.md": {
-    "2017 Luo Towards quality of life- the effects of the wellness tourism experience.html": "ea2e573c"
+    "2017 Luo Towards quality of life- the effects of the wellness tourism experience.html": "9555be25"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/article_summary/Chad must read list/2012 Nawijn Resident Attitudes to Tourism and Their Effect on Subjective Well-Being- The Case of Palma de Mallorca.md": {
-    "2012 Nawijn Resident Attitudes to Tourism and Their Effect on Subjective Well-Being- The Case of Palma de Mallorca.html": "940ed6bc"
+    "2012 Nawijn Resident Attitudes to Tourism and Their Effect on Subjective Well-Being- The Case of Palma de Mallorca.html": "d06c291e"
   },
   "Working/rp_2024_01_tourism_bib_top/05_Resources/Tourism Biblio/Proposal/note.md": {
-    "note.html": "d0cdde77"
+    "note.html": "1111f620"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/lr_quotes_and_paraphrases.qmd": {
-    "lr_quotes_and_paraphrases.html": "e4952c1e"
+    "lr_quotes_and_paraphrases.html": "e63b714c"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/mm_data_collection_strategy.qmd": {
-    "mm_data_collection_strategy.html": "b33f5789"
+    "mm_data_collection_strategy.html": "a202afed"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/lr_research_problem.qmd": {
-    "lr_research_problem.html": "d52c3a0b"
+    "lr_research_problem.html": "42a9d707"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/rl_analysis_version_log.qmd": {
-    "rl_analysis_version_log.html": "596de6f2"
+    "rl_analysis_version_log.html": "9d213c38"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/rl_research_log.qmd": {
-    "rl_research_log.html": "68d45fcd"
+    "rl_research_log.html": "0ace161e"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/tf_theoretical_framework.qmd": {
-    "tf_theoretical_framework.html": "6746a924"
+    "tf_theoretical_framework.html": "eb667b7d"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/index.qmd": {
-    "index.html": "0dbc6ccd"
+    "index.html": "d81baf2c"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/rn_questions_and_answers.qmd": {
-    "rn_questions_and_answers.html": "47227d24"
+    "rn_questions_and_answers.html": "d190cacc"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/mm_method.qmd": {
-    "mm_method.html": "dd9543d6"
+    "mm_method.html": "de4c4396"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/pp_product.qmd": {
-    "pp_product.html": "24b33bc8"
+    "pp_product.html": "90f299d3"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/lr_search_incl_excl.qmd": {
-    "lr_search_incl_excl.html": "92b62f85"
+    "lr_search_incl_excl.html": "302098b8"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/mm_methodology.qmd": {
-    "mm_methodology.html": "599813ea"
+    "mm_methodology.html": "4dd7e848"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/lr_referencelist.qmd": {
-    "lr_referencelist.html": "9bbe8e10"
+    "lr_referencelist.html": "91e49577"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/rl_meeting_log.qmd": {
-    "rl_meeting_log.html": "f7d5a626"
+    "rl_meeting_log.html": "8b92920a"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/mm_data.qmd": {
-    "mm_data.html": "9107c642"
+    "mm_data.html": "7326d85c"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/tf_relationship_between_theories.qmd": {
-    "tf_relationship_between_theories.html": "a2157a0a"
+    "tf_relationship_between_theories.html": "c8ea3abe"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/rn_procedures.qmd": {
-    "rn_procedures.html": "2f8ad97e"
+    "rn_procedures.html": "cdecbaee"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/references.qmd": {
-    "references.html": "06f4ad05"
+    "references.html": "daa61798"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/tf_related_theories.qmd": {
-    "tf_related_theories.html": "961fcd8a"
+    "tf_related_theories.html": "f35decd6"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/lr_model_and_key_references.qmd": {
-    "lr_model_and_key_references.html": "13c2d741"
+    "lr_model_and_key_references.html": "24bc33ac"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/rn_ideas_and_thoughts.qmd": {
-    "rn_ideas_and_thoughts.html": "dfae61e9"
+    "rn_ideas_and_thoughts.html": "58acde6b"
   },
   "Working/rp_2024_01_tourism_bib_top/00_Project/rl_draft_version_log.qmd": {
-    "rl_draft_version_log.html": "fe3eee20"
+    "rl_draft_version_log.html": "125bf328"
+  },
+  "index.qmd": {
+    "index.html": "8934057c",
+    "index.docx": "e9bd4ea6",
+    "index.tex": "bb0b5ed2"
+  },
+  "page_research_history.qmd": {
+    "page_research_history.html": "a3097140",
+    "page_research_history.docx": "c2d0a0aa",
+    "page_research_history.tex": "412af5b2"
+  },
+  "page_research_plan.qmd": {
+    "page_research_plan.html": "b1ff6811",
+    "page_research_plan.docx": "3fb8e74f",
+    "page_research_plan.tex": "f3c6d8fc"
+  },
+  "page_collaborators.qmd": {
+    "page_collaborators.html": "915eafb3",
+    "page_collaborators.docx": "15ea6de0",
+    "page_collaborators.tex": "de108e6e"
   }
 }

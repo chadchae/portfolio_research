@@ -1,0 +1,94 @@
+---
+title             : "TITLE"
+shorttitle        : "SUBTITLE"
+
+author: 
+  - name          : "Chungil CHae"
+    corresponding : yes
+    address       : ""
+    email         : "chadchae@gmail.com"
+    affiliation   : "1"
+    role:
+      - "Conceptualization"
+      - "Writing - Original Draft Preparation"
+      - "Writing - Review & Editing"
+      - "Supervision"
+
+affiliation:
+  - id            : "1"
+    institution   : "88 Daxue Rd, Ouhai, Wenzhou, Zhejiang Province, China 325060"
+
+authornote: |
+  Author Note
+
+abstract: |
+  ABSTRACT.
+  
+keywords          : "key1, key2, key3"
+wordcount         : "X"
+
+bibliography      : "bib/references.bib"
+
+floatsintext      : yes
+linenumbers       : yes
+draft             : yes
+mask              : yes
+
+figurelist        : yes
+tablelist         : yes
+footnotelist      : yes
+
+classoption       : "man"
+output            : papaja::apa6_pdf
+#output            : papaja::apa6_docx
+
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../../_output") })
+
+toc: yes
+header-includes:
+   - \usepackage{kotex}
+   - \usepackage{CJKutf8}
+   - \usepackage{marginnote}
+   - \usepackage{lineno}
+   - \linenumbers
+   - \usepackage{fancyhdr}
+   - \usepackage{lipsum}
+   - \pagestyle{fancy}
+   - \fancyfoot[CO,CE]{Copyright @ Chad (Chungil) Chae, since 2023}
+   - \usepackage{eso-pic,graphicx,transparent}
+   - \usepackage{pdflscape}
+   - \newcommand{\blandscape}{\begin{landscape}}
+   - \newcommand{\elandscape}{\end{landscape}}
+---
+
+```{r setup, include = FALSE}
+# Add R script here
+library("papaja")
+
+```
+
+```{r analysis-preferences}
+# Seed for random number generation
+set.seed(42)
+knitr::opts_chunk$set(cache.extra = knitr::rand_seed)
+```
+
+
+# Introduction (****)
+test [@R-base]
+
+![](img/model.png)
+
+
+
+\newpage
+
+# References
+
+::: {#refs custom-style="Bibliography"}
+:::
+
+
+<!-- comment -->
+

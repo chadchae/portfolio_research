@@ -1,0 +1,96 @@
+# Project Details {.unnumbered}
+Updated in 2021-09-01
+
+## Citation
+
+## Abstract
+
+> Here Abstract
+
+## Planning
+
+### Schedule
+- tba
+
+### Progress
+- Progress 1
+- Progress 2
+
+## Authorship and Authors
+
+### Author Contribution
+
+- Supervision: Chungil (Chad) Chae 
+- Project administration:
+  - Chungil (Chad) Chae
+- Conceptualization:
+  - Chungil (Chad) Chae
+-  Data accusation:
+-  Data curation:
+-  Formal analysis:
+  - Chungil (Chad) Chae
+- Investigation:
+- Methodology:
+  - Chungil (Chad) Chae
+- Resources:
+- Validation:
+- Visualization:
+- Writing – original draft:
+  - Chungil (Chad) Chae
+- Writing – review & editing:
+  - Chungil (Chad) Chae
+
+
+
+### Authors
+
+#### Chungil Chae, Ph.D., M.S.
+
+:::: {.columns}
+
+::: {.column width="70%"}
+- chadchae\@gmail.com
+- orcid: [000-0002-7364-1525](https://orcid.org/0000-0002-7364-1525)
+- [Google Scholar](https://scholar.google.com/citations?user=c4lRBrkAAAAJ&hl=en)
+- @chadchae
+
+:::
+
+::: {.column width="30%"}
+![](img/chadchae.png)
+:::
+
+
+::::
+
+> Chungil Chae @chadchae is an assistant professor in the field of business analytics, with a distinguished track record in organizational behavior, human resource development (HRD), learning, and development. With a prolific publication record that spans various dimensions of HRD and organizational studies, Dr. Chae has made significant contributions to understanding the dynamics of organizational support on knowledge sharing, virtual team leadership, and the structural determinants of HRD research collaboration networks. And his work embodies a deep commitment to enhancing understanding and practices in organizational behavior, HRD, learning, and development. His interdisciplinary research not only contributes to academic discourse but also offers tangible strategies for organizational improvement and individual development.
+
+#### Author Bio 1
+
+:::: {.columns}
+
+::: {.column width="70%"}
+- tba
+
+:::
+
+::: {.column width="30%"}
+image or logo
+:::
+
+::::
+
+> bio here
+
+### Acknowledgement
+
+-   tba
+
+## Declearation
+
+### IRB
+
+### Funding
+
+### AI
+

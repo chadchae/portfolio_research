@@ -1,0 +1,75 @@
+---
+title: "Author Bio"
+author: "Chad"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+# Author1
+## Name
+Chungil Chae (Chad)
+
+## Email
+chadchae@gmail.com
+
+## Phone
++(86) 198 5881 3739
+
+## Address
+88 Daxue Rd, Ouhai, Wenzhou, Zhejiang Province, China 325060.
+
+## Affiliation
+Wenzhou-Kean University
+
+## Position
+Assistant Professor
+
+## Bio
+Chungil Chae, also known as Chad, is an accomplished assistant professor at Wenzhou-Kean University, where he specializes in the field of business, people, and HR analytics. His expertise encompasses a wide range of subject areas, including team dynamics, learning intervention, evaluation processes, and human performance technology. Driven by a research philosophy that emphasizes the pursuit of new knowledge discoveries and the recognition of practical implications for professional practice, Chad is dedicated to upholding high ethical standards in research and maintaining a keen sense of the nature of phenomena. He values diligent collaboration as a means to enhance productivity and promote sustainable research activity. In his research, Chad employs both qualitative and quantitative approaches to gain a comprehensive understanding of the topics he explores.
+
+# Author2
+## Name
+
+## Email
+
+## Phone
+
+## Address
+
+## Affiliation
+
+## Position
+
+## Bio
+
+
+
+
+
+# Author3
+## Name
+
+## Email
+
+## Phone
+
+## Address
+
+## Affiliation
+
+## Position
+
+## Bio
+
+
+
+
+
+# Corresponding Author
+

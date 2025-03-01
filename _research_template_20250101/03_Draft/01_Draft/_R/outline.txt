@@ -1,0 +1,60 @@
+Introduction (1000)
+	Background
+		Despite the remarkable economic growth of South Korea (Korea, hereafter), becoming...
+		Why has Korea's remarkable economic success not translated into women's corresponding...
+	Problem
+		However, due to the qualitative nature of the eight studies, we did not examine...
+		Although generalizability is not a goal of qualitative research, examining research...
+	Research Question
+		Given the persistent gender gap in leadership within South Korea, how can computational...
+	Motivation
+		Computational analysis ensures high reliability, trustworthiness, reproducibility...
+	Purpose of Research
+		This study aims to employ topic modelling techniques to reanalyze 199 narratives...
+	Objectives
+		To address the research questions and fulfil the objectives of this study, we...
+Literature Review (2000)
+	Women Leadership in General
+	Summary and Synthesizing themes previous 8 studies
+	Women and gender researches that used computational analysis
+	Computational Grounded Theory and Text mining Technique
+	Summary or Synthesis of Literature Review
+Method (1000)
+	Participants or Subjects
+		Selection Criteria
+		Demographics
+		Ethical Considerations
+	Study Design
+		Type of Study
+		Randomization and Blinding
+	Procedures and Data Collection
+	Data Collection Methods
+	Variables
+		Primary and Secondary Outcomes
+	Analytical Methods
+		Statistical Analysis
+		Modeling Approaches
+		Sensitivity Analyses
+	Quality Control
+		Calibration and Validation
+		Data Integrity
+	Methodological Limitations
+	Analytic Procedure
+Findings (1500)
+	Descriptive Analysis
+	Word Level Analysis
+	Topic Modeling
+	Effect analysis
+Discussion (2000)
+	Summary
+	Discussion Points
+		Discussion Point1
+		Discussion Point2
+		Discussion Point3
+	Contribution
+		Theoretical Contribution
+		Practical Contribution
+	Limitation and Further Study (*)
+		Limitation and De-limitation(if possible)
+		Further Study
+Conclusion (500)

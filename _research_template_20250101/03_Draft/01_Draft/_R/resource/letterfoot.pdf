@@ -1,0 +1,96 @@
+%PDF-1.2
+1 0 obj
+<<
+    /Type /Catalog
+    /Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+    /Type /Pages
+    /Kids [3 0 R]
+    /Count 1
+>>
+endobj
+3 0 obj
+<<
+    /Type /Page
+    /Parent 2 0 R
+    /Resources 4 0 R
+    /MediaBox [0 0 800 80]
+    /Contents [6 0 R 7 0 R 8 0 R]
+>>
+endobj
+4 0 obj
+<<
+    /Font <<
+        /F1 5 0 R
+    >>
+    /ExtGState << /GS11 <</ca 1 /CA 1>> >>
+>>
+endobj
+5 0 obj
+<<
+    /Type /Font
+    /Subtype /Type1
+    /BaseFont /Helvetica
+>>
+endobj
+6 0 obj
+<< /Length 70 >>
+stream
+/GS11 gs
+1 w
+0 0 0 rg
+0 0 0 RG
+0 0 m
+800 0 l
+800 80 l
+0 80 l
+0 0 l W n
+endstream
+endobj
+7 0 obj
+<< /Length 53 >>
+stream
+q
+/GS11 gs
+1 w
+0 0 0 rg
+0 0 0 RG
+80 38 m 720 38 l s
+Q
+endstream
+endobj
+8 0 obj
+<< /Length 193 >>
+stream
+q
+/GS11 gs
+1 w
+0 0 0 rg
+0 0 0 RG
+BT
+    /F1 10 Tf
+    80 25 Td
+    0 Tr
+    (Tel: +86 577 5587 0000 Fax: +86 577 5587 0101  88 Daxue Rd, Ouhai, Wenzhou, Zhejiang Province, China 325060) Tj
+ET
+Q
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000008 00000 n 
+0000000065 00000 n 
+0000000134 00000 n 
+0000000271 00000 n 
+0000000373 00000 n 
+0000000455 00000 n 
+0000000575 00000 n 
+0000000678 00000 n 
+trailer <</Size 9/Root 1 0 R>>
+startxref
+922
+%%EOF

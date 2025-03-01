@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 9e81d28c-5014-49b2-9ca8-b0c12e323b42
+      url: 'https://chadchae.quarto.pub/template'

@@ -1,0 +1,57 @@
+[타이틀 없는 슬라이드]
+# {background-color="white" background-image="_resource/chad_tran.png" background-size="300px" background-repeat="repeat"} 
+
+[컬럼]
+:::: {.columns}
+
+::: {.column width="50%"}
+Content1
+:::
+
+::: {.column width="50%"}
+Content2
+:::
+
+::::
+
+[작은 폰트 사이즈 슬라이드]
+## Slide Title {.smaller}
+Slide Contents
+
+
+
+[프리젠트 노트]
+::: {.notes}
+
+
+::: {.callout-note} # note tip caution warning important
+## TITLE
+CONTENTS
+:::
+
+[텝셋]
+::: {.panel-tabset}
+
+### Tab A
+
+Content for `Tab A`
+
+### Tab B
+
+Content for `Tab B`
+
+:::
+
+
+[슬라이드 백그라운드 - 컬러]
+## Slide Title {background-color="aquamarine"}
+[슬라이드 백그라운드 - 그리디언트]
+## Slide Title {background-gradient="linear-gradient(to bottom, #283b95, #17b2c3)"}
+## Slide Title {background-gradient="radial-gradient(#283b95, #17b2c3)"}
+[슬라이드 백그라운드 - 이미지]
+## Slide Title {background-color="black" background-image="https://placekitten.com/100/100" background-size="100px" background-repeat="repeat"}
+[슬라이드 백그라운드 - 비디오]
+## Slide Title {background-video="video.mp4" background-video-loop="true" background-video-muted="true"}
+[슬라이드 백그라운드 - 컬러, 이미지 타이틀없이]
+## {background-color="aquamarine"}
+## {background-color="black" background-image="https://placekitten.com/100/100" background-size="100px" background-repeat="repeat"}

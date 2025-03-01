@@ -1,0 +1,45 @@
+---
+author:
+- Chungil Chae (cchae@kean.edu)
+- College of Business and Public Management (CBPM), Wenzhou-Kean University
+opening: Dear [Editor Name],
+closing: Sincerely,
+return-address: 
+-
+- CBPM B223, 88 Daxue Rd.
+- Ouhai, Wenzhou
+- Zhejiang, China 325060
+
+letterhead: resource/letterhead.pdf
+letterhead-before: 8ex
+letterfoot: resource/letterfoot.pdf
+signature: resource/sigature.pdf
+signature-before: -8ex
+signature-after: 0ex
+
+colorlinks: true 
+
+#cc:
+#- Recipient 1
+#- Recipient 2
+#encl:
+#- Enclosure 1
+#- Enclosure 2
+#ps: |
+#  PS Lorem ipsum dolor sit amet, *consectetur* adipiscing elit.
+
+output: linl::linl
+header-includes:
+    - \usepackage{kotex}
+    - \usepackage{CJKutf8}
+---
+
+We, [AU1], [AU2], [Au3], wish to submit a manuscript entitled “[Title]” for consideration of research article by [Journal Name]. We confirm that this work is original and has not been published elsewhere nor is it currently under consideration for publication elsewhere.
+
+In this paper, we introduce a foundational concepts of [Perspective] to [Discipline] research. The importance of [Perspective] is widely recognized in many areas of practice and disciplines related to [Discipline]. Particularly, [Discipline] have the potential advantage to influence [Discipline Interest1], [Discipline Interest2], [Discipline Interest3] and new ideas. This article discusses issues involved in introducing [Subject]. Not only that, this paper introduces [Feature]. 
+
+Please address all correspondence concerning this manuscript to me at [author email].
+Thank you for your consideration of this manuscript. 
+Sincerely,
+
+[Sender Name]
