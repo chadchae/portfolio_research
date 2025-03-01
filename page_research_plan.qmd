@@ -75,3 +75,31 @@ knitr::opts_chunk$set(error = F, echo = F, warning = F, fig.width=8, fig.height=
 
 ```
 
+## Working
+- tourism_bib_top
+- Women Leadership Integrative Topicmodeling
+- kird
+- corporate_purpose
+- sspf_2025_summer
+
+## Planned
+- Exploring_skill_of_hr_and_parp_hranalytics_skillset_research_and_tool
+- Digital_Transformation_and_HRD
+- A_Conceptual_Model_framework_for_Scenario_Generation
+- HRM_and_Social_Cohesion
+- AI_Entrepre
+- comp_research_synth_top_bib
+- cultural_adj_noralogical_network
+- AI_and_Academic_Writing
+- Social Entrepreneurship
+
+## Extended
+- tourism_bib_top
+  - 
+  - 
+- kird
+  - 
+  - 
+  
+## Student Lead Project
+- TBA
