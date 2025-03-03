@@ -1,4 +1,0 @@
-# Meeting Log {.unnumbered}
-
-## xxxx-xx-xx
-- [x] 10:00-10:30: Kick-off meeting

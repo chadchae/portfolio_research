@@ -726,5 +726,260 @@
     "page_collaborators.html": "915eafb3",
     "page_collaborators.docx": "15ea6de0",
     "page_collaborators.tex": "de108e6e"
+  },
+  "Working/0000_00_TEMPLATE/03_Draft/01_Draft/Draft.qmd": {
+    "Draft.docx": "af88f5ce",
+    "Draft.html": "6f34169f",
+    "Draft.tex": "3325722c"
+  },
+  "Working/0000_00_TEMPLATE/03_Draft/02_Revision_Table/revision_table.qmd": {
+    "revision_table.docx": "0e6f5cf0",
+    "revision_table.html": "7f8a9082",
+    "revision_table.tex": "413c0c19"
+  },
+  "Working/0000_00_TEMPLATE/01_Proposal/01_proposal.qmd": {
+    "01_proposal.docx": "02524bed",
+    "01_proposal.html": "7fafe314",
+    "01_proposal.tex": "4eca8efd"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/lr_quotes_and_paraphrases.qmd": {
+    "lr_quotes_and_paraphrases.html": "a07ca821"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/mm_data_collection_strategy.qmd": {
+    "mm_data_collection_strategy.html": "fcb29a53"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/lr_research_problem.qmd": {
+    "lr_research_problem.html": "e8628903"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/rl_analysis_version_log.qmd": {
+    "rl_analysis_version_log.html": "1e58f3c9"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/rl_research_log.qmd": {
+    "rl_research_log.html": "022c44b8"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/tf_theoretical_framework.qmd": {
+    "tf_theoretical_framework.html": "873a04d1"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/index.qmd": {
+    "index.html": "5d5b35d2"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/rn_questions_and_answers.qmd": {
+    "rn_questions_and_answers.html": "a39f8ec7"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/mm_method.qmd": {
+    "mm_method.html": "f7818b0b"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/pp_product.qmd": {
+    "pp_product.html": "335b9a73"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/lr_search_incl_excl.qmd": {
+    "lr_search_incl_excl.html": "12e4d452"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/mm_methodology.qmd": {
+    "mm_methodology.html": "40d2cdd9"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/lr_referencelist.qmd": {
+    "lr_referencelist.html": "b8c1a97a"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/rl_meeting_log.qmd": {
+    "rl_meeting_log.html": "6d44a396"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/mm_data.qmd": {
+    "mm_data.html": "4c9706e8"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/tf_relationship_between_theories.qmd": {
+    "tf_relationship_between_theories.html": "6fd31b52"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/rn_procedures.qmd": {
+    "rn_procedures.html": "acea3567"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/references.qmd": {
+    "references.html": "c9e81d93"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/tf_related_theories.qmd": {
+    "tf_related_theories.html": "a34c7381"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/lr_model_and_key_references.qmd": {
+    "lr_model_and_key_references.html": "101296bb"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/rn_ideas_and_thoughts.qmd": {
+    "rn_ideas_and_thoughts.html": "7b864a5c"
+  },
+  "Working/0000_00_TEMPLATE/00_Project/rl_draft_version_log.qmd": {
+    "rl_draft_version_log.html": "c8330edf"
+  },
+  "Working/rp_2024_11_corporate_purpose/03_Draft/01_Draft/draft_matter/Draft_Matter_Title_Page.Rmd": {
+    "Draft_Matter_Title_Page.html": "078915e2"
+  },
+  "Working/rp_2024_11_corporate_purpose/03_Draft/01_Draft/draft_matter/Draft_Matter_Author_Bio.Rmd": {
+    "Draft_Matter_Author_Bio.html": "3cc36d7d"
+  },
+  "Working/rp_2024_11_corporate_purpose/03_Draft/01_Draft/draft_matter/Draft_Matter_Cover_Letter.Rmd": {
+    "Draft_Matter_Cover_Letter.html": "c68fec3e"
+  },
+  "Working/rp_2024_11_corporate_purpose/03_Draft/01_Draft/Draft.qmd": {
+    "Draft.docx": "68240d67",
+    "Draft.html": "ac0b93bb",
+    "Draft.tex": "02346904"
+  },
+  "Working/rp_2024_11_corporate_purpose/03_Draft/02_Revision_Table/revision_table.qmd": {
+    "revision_table.docx": "d5c9719d",
+    "revision_table.html": "10e45f5e",
+    "revision_table.tex": "854fcdfb"
+  },
+  "Working/rp_2024_11_corporate_purpose/01_Proposal/01_proposal.qmd": {
+    "01_proposal.docx": "9159d6f1",
+    "01_proposal.html": "febea479",
+    "01_proposal.tex": "bb7c8261"
+  },
+  "Working/rp_2024_03_kird/03_Draft/01_Draft/draft_matter/Draft_Matter_Title_Page.Rmd": {
+    "Draft_Matter_Title_Page.html": "85b70daa"
+  },
+  "Working/rp_2024_03_kird/03_Draft/01_Draft/draft_matter/Draft_Matter_Author_Bio.Rmd": {
+    "Draft_Matter_Author_Bio.html": "46ec138f"
+  },
+  "Working/rp_2024_03_kird/03_Draft/01_Draft/draft_matter/Draft_Matter_Cover_Letter.Rmd": {
+    "Draft_Matter_Cover_Letter.html": "e909ef0b"
+  },
+  "Working/rp_2024_03_kird/03_Draft/01_Draft/Draft.qmd": {
+    "Draft.docx": "453915d0",
+    "Draft.html": "73cf9b1d",
+    "Draft.tex": "165b4e89"
+  },
+  "Working/rp_2024_03_kird/03_Draft/02_Revision_Table/revision_table.qmd": {
+    "revision_table.docx": "e20be3aa",
+    "revision_table.html": "77ab5749",
+    "revision_table.tex": "6471bdbf"
+  },
+  "Working/rp_2024_03_kird/01_Proposal/01_proposal.qmd": {
+    "01_proposal.docx": "9c643508",
+    "01_proposal.html": "a76fd715",
+    "01_proposal.tex": "57a169d1"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/03_Draft/01_Draft/draft_matter/Draft_Matter_Title_Page.Rmd": {
+    "Draft_Matter_Title_Page.html": "01ee31e0"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/03_Draft/01_Draft/draft_matter/Draft_Matter_Author_Bio.Rmd": {
+    "Draft_Matter_Author_Bio.html": "cb91e3bd"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/03_Draft/01_Draft/draft_matter/Draft_Matter_Cover_Letter.Rmd": {
+    "Draft_Matter_Cover_Letter.html": "122a3a24"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/03_Draft/01_Draft/Draft.qmd": {
+    "Draft.docx": "5f47b398",
+    "Draft.html": "674cb0a0",
+    "Draft.tex": "4f29efb2"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/03_Draft/02_Revision_Table/revision_table.qmd": {
+    "revision_table.docx": "56528aef",
+    "revision_table.html": "3add86f3",
+    "revision_table.tex": "7f7abd04"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/02_Analysis/Quan/Analysis4/script/python/한글품사추출-명사.ipynb": {
+    "한글품사추출-명사.html": "6334d65b"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/02_Analysis/Quan/Analysis4/script/python/명사어근추출.ipynb": {
+    "명사어근추출.html": "e5a21277"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/02_Analysis/Quan/Analysis3/script/python/명사어근추출.ipynb": {
+    "명사어근추출.html": "65e41381"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/02_Analysis/Quan/Analysis2/script/python/명사어근추출.ipynb": {
+    "명사어근추출.html": "59072e6f"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/02_Analysis/Quan/Analysis5/script/python/명사어근추출.ipynb": {
+    "명사어근추출.html": "f6f0ae38"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/02_Analysis/Quan/Analysis0/ppt/presentation.Rmd": {
+    "presentation.html": "6ddc676f"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/02_Analysis/Quan/Analysis7/python/명사어근추출.ipynb": {
+    "명사어근추출.html": "3fecf40c"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/02_Analysis/Quan/Analysis7/codebook/codebook.rmd.Rmd": {
+    "codebook.rmd.html": "da8dbb22"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/02_Analysis/Quan/Analysis8/python/명사어근추출.ipynb": {
+    "명사어근추출.html": "669413ce"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/02_Analysis/Quan/Analysis6/python/명사어근추출.ipynb": {
+    "명사어근추출.html": "f97684f1"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/02_Analysis/Quan/Analysis6/codebook/codebook.rmd.Rmd": {
+    "codebook.rmd.html": "495a6720"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/01_Proposal/01_proposal.qmd": {
+    "01_proposal.docx": "aa60baf3",
+    "01_proposal.html": "2524deac",
+    "01_proposal.tex": "fd8f0b16"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/05_Resources/Woman Leader Topic Modeling/Proposal/reference.md": {
+    "reference.html": "6bbdb172"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/05_Resources/Woman Leader Topic Modeling/Proposal/note.md": {
+    "note.html": "0853cfc3"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/05_Resources/Woman Leader Topic Modeling/Proposal/questions.md": {
+    "questions.html": "830506cf"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/05_Resources/Woman Leader Topic Modeling/Proposal/resource.md": {
+    "resource.html": "b47495dc"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/05_Resources/Woman Leader Topic Modeling/Proposal/procedure.md": {
+    "procedure.html": "85a4a4ce"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/05_Resources/cho_woman_leadership1/draft/Contents from IRB.Rmd": {
+    "Contents from IRB.html": "2532780b"
+  },
+  "Working/rp_2024_02_Women Leadership Integrative Topicmodeling/05_Resources/cho_woman_leadership1/draft/draft.Rmd": {
+    "draft.html": "3956f479"
+  },
+  "Working/sspf_2025_summer/03_Draft/01_Draft/draft_matter/Draft_Matter_Title_Page.Rmd": {
+    "Draft_Matter_Title_Page.html": "404f37dc"
+  },
+  "Working/sspf_2025_summer/03_Draft/01_Draft/draft_matter/Draft_Matter_Author_Bio.Rmd": {
+    "Draft_Matter_Author_Bio.html": "0ab2adbb"
+  },
+  "Working/sspf_2025_summer/03_Draft/01_Draft/draft_matter/Draft_Matter_Cover_Letter.Rmd": {
+    "Draft_Matter_Cover_Letter.html": "c14fa90c"
+  },
+  "Working/sspf_2025_summer/03_Draft/01_Draft/Draft.qmd": {
+    "Draft.docx": "db6c66ff",
+    "Draft.html": "f6715562",
+    "Draft.tex": "e0433fb2"
+  },
+  "Working/sspf_2025_summer/03_Draft/02_Revision_Table/revision_table.qmd": {
+    "revision_table.docx": "e29a3936",
+    "revision_table.html": "8bc12d59",
+    "revision_table.tex": "500655e4"
+  },
+  "Working/sspf_2025_summer/01_Proposal/01_proposal.qmd": {
+    "01_proposal.docx": "32263ec7",
+    "01_proposal.html": "eeea356a",
+    "01_proposal.tex": "1480199e"
+  },
+  "Working/rp_2024_01_tourism_bib_top/03_Draft/01_Draft/draft_matter/Draft_Matter_Title_Page.Rmd": {
+    "Draft_Matter_Title_Page.html": "240fdcc0"
+  },
+  "Working/rp_2024_01_tourism_bib_top/03_Draft/01_Draft/draft_matter/Draft_Matter_Author_Bio.Rmd": {
+    "Draft_Matter_Author_Bio.html": "d3f1a297"
+  },
+  "Working/rp_2024_01_tourism_bib_top/03_Draft/01_Draft/draft_matter/Draft_Matter_Cover_Letter.Rmd": {
+    "Draft_Matter_Cover_Letter.html": "c33004ec"
+  },
+  "Working/rp_2024_01_tourism_bib_top/03_Draft/01_Draft/Draft.qmd": {
+    "Draft.docx": "d454a683",
+    "Draft.html": "f067ee66",
+    "Draft.tex": "398b2828"
+  },
+  "Working/rp_2024_01_tourism_bib_top/03_Draft/02_Revision_Table/revision_table.qmd": {
+    "revision_table.docx": "66570b4f",
+    "revision_table.html": "7925ff43",
+    "revision_table.tex": "ab4ffc07"
+  },
+  "Working/rp_2024_01_tourism_bib_top/01_Proposal/01_proposal.qmd": {
+    "01_proposal.docx": "94f091ae",
+    "01_proposal.html": "98fd22af",
+    "01_proposal.tex": "69953ebd"
   }
 }

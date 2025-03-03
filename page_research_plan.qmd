@@ -76,30 +76,167 @@ knitr::opts_chunk$set(error = F, echo = F, warning = F, fig.width=8, fig.height=
 ```
 
 ## Working
-- tourism_bib_top
-- Women Leadership Integrative Topicmodeling
-- kird
-- corporate_purpose
-- sspf_2025_summer
+
+### A bibliometric analysis of tourists’ experience and happiness in tourism (2000-2024)
+- **Ownership:** [Dr.Kwan](https://uni.dongseo.ac.kr/tour/?pCode=tourismmanagement&mode=view&idx=715)
+- **Status:** Initiating
+- **Movivation:** Given the growing body of literature and the fragmented nature of research on tourism and happiness, there is a critical need for a comprehensive bibliometric analysis to systematically map existing studies, identify emerging trends, and uncover research gaps.
+- **Description:** This study presents a bibliometric analysis of research on tourists’ experiences and happiness in tourism from 1992 to 2025. Using co-citation analysis, keyword co-occurrence, and thematic mapping, this study identifies key research themes, influential works, and emerging trends. The findings reveal four major thematic clusters: Health, Satisfaction, Perceptions, and Quality of Life, with satisfaction playing a central role in linking various subfields of tourism research. The analysis highlights a growing emphasis on well-being, digital tourism, and sustainability, along with increasing interdisciplinary and international collaborations. Future research should explore cultural variations in happiness, the influence of travel on mental resilience, and the role of digital innovations in shaping tourism experiences. This study provides a comprehensive mapping of the intellectual landscape of tourism and well-being, offering valuable insights for researchers, policymakers, and industry practitioners.
+- **Keywords:** Tourism, Tourists’ happiness, Bibliometric analysis, Thematic Mapping, Co-Citation Network
+- **Related articles:**
+   - Andereck, K. L., & Nyaupane, G. P. (2011). Exploring the nature of tourism and quality of life perceptions among residents. Journal of Travel research, 50(3), 248-260. https://doi.org/10.1177/0047287510362918
+  - Diener, E. (1984). Subjective well-being. Psychological bulletin, 95(3), 542. https://doi.org/10.1037/0033-2909.95.3.542
+  - Garcês, S., Pocinho, M., Jesus, S. N., & Rieber, M. S. (2018). Positive psychology and tourism: A systematic literature review. Tourism & Management Studies, 14(3), 41–51. https://doi.org/10.18089/tms.2018.14304
+
+### Synthesis and Revisiting Korean Women Leaders’ Narrative: A Computational Analysis Using Structural Topic Modeling
+- **Ownership:** [Yoonjoo Cho](https://www.uttyler.edu/directory/human-resource-development/yonjoo-cho.php)
+- **Status:** Final analysis complated
+- **Movivation:** Building on Dr. Cho's decade-long research on women's leadership, we developed an interest in applying computer-aided analysis to the qualitative data she has collected. As an initial project, this study aims to synthesize the literature Dr. Cho has published over the past ten years and analyze the qualitative data accumulated during this period..
+- **Description:** Over the past eight years, we have conducted eight qualitative studies on women leaders in South Korea (Korea) from the lens of work-life balance and career and leadership development, using semi-structured interviews. Given the women leaders’ 200 narratives, we felt a strong need to reanalyze the interview data to tackle the subjectivity issue in qualitative research using topic modeling that is a computational technique to mining a large volume of texts. The purpose of this study, therefore, was to reanalyze women leaders’ narratives and to examine the research themes identified through a computational analysis. As a result, we identified key research topics on Korean women leaders’ narratives, compared those with the research themes from the previous qualitative studies, and provide implications for HRD research and practice for the future.
+- **Keywords:** women leaders’ narratives, computational analysis, topic modeling, South Korea
+- **Related articles:** 
+  - Baumer, E. P., Mimno, D., Guha, S., Quan, E., & Gay, G. K. (2017). Comparing grounded theory and topic modeling: Extreme divergence or unlikely convergence? Journal of the Association for Information Science and Technology, 68(6), 1397-1410. https://doi.org/10.1002/asi.23786
+  - Cho, Y., Park, J., Ju, B., Han, S., Moon, H., Park, S., Ju, A., & Park, E. (2016). Women leaders’ work-life imbalance in South Korean companies: A collaborative qualitative study. Human Resource Development Quarterly, 27(4), 461-487. https://doi.org/10.1002/hrdq.21262
+  - Doldor, E., Wyatt, M., & Silvester, J. (2019). Statesmen or cheerleaders? Using topic modeling to examine gendered messages in narrative developmental feedback for leaders. The Leadership Quarterly, 30(5), 101308. https://doi.org/10.1016/j.leaqua.2019.101308
+
+### The Impact of Past Achievements and Career Stagnation on the Vitality of Public Science and Technology R&D Personnel.
+- **Ownership:** Chungil Chae (Chad)
+- **Status:** Initiating
+- **Movivation:** Starting from the end of previous study that is published recently in Korea (Eo,S., Kim, S., & Chae, C. (2025) The Impact of Past Performance and Career Plateau on
+the Vigor of Public Science and Technology R&D Personnel, *Korean Innovation 20*, 1), we initiate a new study that using KIRD data. Several research project could be possible. As an initial step, I focus on revision of previous reserach published in Korea, first translate into English, and then develop other explanation for researchers and engineers in Korea who registrated in KIRD.
+- **Description:** Previous reserach abstract is the following, "This study empirically investigates the impact of past performance and career plateau on the vigor of public R&D personnel within a performance management system focused on quantitative research achievements. In public science and technology research institutions, researchers' vigor serves as a source of creativity and innovation, playing a crucial role in the nation's sustainable development and enhancing its scientific and technological competitiveness. While past performance can positively stimulate psychological resources and motivation, boosting vigor, career plateau—both structural and job content plateau—may negatively affect vigor by lowering expectations for growth opportunities. This study aims to clarify the specific effects of past performance and career plateau on vigor and examine how past performance influences vigor through career plateau. The findings reveal that past job performance positively impacts researchers' vigor, showing that factors such as task accomplishment, self-efficacy, positive reinforcement, and challenge can foster vigor. Furthermore, past performance was found to reduce both job content and structural plateaus, though the effect size was relatively modest. Among the two dimensions of career plateau, structural plateau was shown to have a negative impact on vigor, highlighting how structural factors—such as limited promotion opportunities in public science and technology institutions—can diminish researchers' vigor. Conversely, job content plateau did not have a statistically significant negative effect on vigor, suggesting that the impact of job challenges or changes on vigor may be relatively minor in the context of domestic public research institutions. Finally, structural plateau demonstrated a negative mediating effect in the relationship between past performance and vigor, indicating that increased quantitative achievements can alleviate structural plateau, thereby mitigating its adverse effect on vigor. These results suggest that public research institution researchers who achieve higher performance may develop greater expectations for career advancement, allowing them to maintain or enhance their vigor. Thus, past performance plays a crucial role in fostering researchers' vigor, offering important implications for the motivation and career management of R&D personnel. This study provides practical insights into career management strategies aimed at enhancing the vigor of public R&D personnel. Given that high performance increases vigor and alleviates career plateau, organizations should consider implementing various support systems and actively introducing reward systems to encourage performance achievement."
+- **Keywords:** Vigor, Career Plateau, Public R&D Personnel, Past Performance
+- **Related articles:** 
+  - Schaufeli, W.B. and A.B. Bakker B.(2003), Utrecht work engagement scale: Preliminary manual. Occupational Health Psychology Unit: Utrecht University, Utrecht.
+  - Roussel, P.A., K.N. Saad and T.J. Erickson (1991), Third generation R&D: managing the link to corporate strategy, (No Title).
+  - Shirom, A. (2007), “Explaining vigor: on the antecedents and consequences of vigor as a positive affect at work,” In Positive Organizational Behavior, SAGE Publications Ltd, 86-100. https://doi.org/10.4135/9781446212752
+
+### Systematic Exploration of Corporate Purpose and Meaning of Work
+- **Ownership:** Chungil Chae (Chad)
+- **Status:** 1st analysis competed
+- **Movivation:** Designed as part of a series on corporate purpose and the meaning of work, this project originates from fundamental questions about the purpose of corporations and how it connects to individual beliefs, particularly the perception of meaningful work. As the first study in this series, it aims to map and synthesize the research landscape on corporate purpose and the meaning of work using bibliometrics, topic modeling, and literature-based knowledge discovery.
+- **Description:** 
+- **Keywords:** corporate purpose, meaning of work, research sythesis
+- **Related articles:** 
+    - TBA
+
+### sspf_2025_summer (Exploring Skill and Competency for HR/People Analytics: Text Mining Approach with Application of Multi-Agent LLM)
+  - **Ownership:** Chungil Chae (Chad)
+  - **Status:**  Initiating
+  - **Movivation:** For 'the Summer Student Partnership with Faculty' program in Wenzhou-Kean Univeristy, a previous reserach proposal that submitted to 2025 AHRD conference, "Exploring Skill and Competency for HR/People Analytics: Text Mining Approach with Application of Multi-Agent LLM"
+  - **Description:** See the detail of "Exploring Skill and Competency for HR/People Analytics"
+  - **Keywords:** skill and competency, hr/people analytics, multi-agent LLM
+  - **Related articles:** 
+    - TBA
 
 ## Planned
-- Exploring_skill_of_hr_and_parp_hranalytics_skillset_research_and_tool
-- Digital_Transformation_and_HRD
-- A_Conceptual_Model_framework_for_Scenario_Generation
-- HRM_and_Social_Cohesion
-- AI_Entrepre
-- comp_research_synth_top_bib
-- cultural_adj_noralogical_network
-- AI_and_Academic_Writing
-- Social Entrepreneurship
 
-## Extended
+### Exploring Skill and Competency for HR/People Analytics: Text Mining Approach with Application of Multi-Agent LLM
+- **Ownership:** Chungil Chae (Chad)
+- **Status:** Planning
+- **Movivation:** This research explores the question: What kind of talent do companies seek for HR/People Analytics roles? The study aims to analyze job descriptions for HR/People Analytics positions using text mining techniques. By extracting key skills, competencies, and qualifications from job postings, the findings will be compared with the skill competencies outlined in O*NET to identify discrepancies between industry demands and standardized competency frameworks. This research will provide insights into evolving skill expectations and potential gaps in workforce development for HR/People Analytics professionals.
+- **Description:** People analytics and HR analytics has often regarded as tool or process that enabling strategic HR process (Suri, 2022; Mclver, Lengnick-Hall, & Lengnick-Hall, 2018). Along with the emerging popularity of HR/People analytics (Yoon, Han & Chae, 2023), previous research keep searching what would be the proper skill and competency area on HR/People Analytics (Karwehi & Kauffeld, 2021; Talerico, 2021) and has been attempted to provide necessary skill sets using advanced text mining analyses (Papoutsogou, Mittas, & Angelis, 2017; Kashive, 2022). Skill-based approach in learning has been discussed for long time and still regarded as an important idea that concerning learning outcome and training evaluation (Kraiger, 1993). Specifying the appropriate skill and competency framework for HR/People Analytics is essential to advancing an organization's learning capacity, where the goal is to enable systematic skill development across personal, career, and organizational levels. Using Organizational Learning (OL) theory as a lens, this study positions the identification and structuring of HR/People Analytics skills as a foundation for enhancing the organization’s collective intelligence and adaptive capabilities. By defining a competency framework through text-mining results, the study contributes to creating a learning structure that supports continuous improvement and responsiveness in HR practices. This approach aligns with Watkins and Marsick’s (1992) concept of the learning organization “how we systematically design lenaring for maximum personal, career, & organizational learning & development” (Watkins & Marsick, 1992). 
+- **Keywords:** skill-based, hr/people analytics, text mining
+- **Related articles:** 
+  - Karwehl, L.J., Kauffeld, S. Traditional and new ways in competence management: Application of HR analytics in competence management. Gr Interakt Org 52, 7–24 (2021). https://doi.org/10.1007/s11612-021-00548-y
+  - Marler, J. H., & Boudreau, J. W. (2017). An evidence-based review of HR Analytics. The International Journal of Human Resource Management, 28(1), 3-26. https://doi.org/10.1080/09585192.2016.1244699
+  - Talerico, C. (2021). HR Analytic Competencies: A Comparison of Developed Versus Developing Country HR Practitioner Skill Sets 3rd International Conference on Business, Management and Finance,
+  - Yoon, S. W., Han, S.-h., & Chae, C. (2024). People Analytics and Human Resource Development–Research Landscape and Future Needs Based on Bibliometrics and Scoping Review. Human Resource Development Review, 23(1), 30-57. https://doi.org/10.1177/15344843231209362
+
+### Digital_Transformation_and_HRD
+- **Ownership:** Chungil Chae (Chad)
+- **Status:** Planning
+- **Movivation:** Applying Bibliometrics and Literature based Knowledge Discovery on relationship between digital transformation and HRD
+- **Description:** 
+- **Keywords:** 
+- **Related articles:** 
+  - TBA
+
+### A_Conceptual_Model_framework_for_Scenario_Generation
+- **Ownership:** Chungil Chae (Chad)
+- **Status:** Planning
+- **Movivation:** As a Generative LLM applicaiton on business and management, how we could use LLM for scenario generation? What type of scenario posible, how and what procedure need
+- **Description:** 
+- **Keywords:** 
+- **Related articles:** 
+  - TBA
+
+### HRM_and_Social_Cohesion
+- **Ownership:** Chungil Chae (Chad)
+- **Status:** Planning
+- **Movivation:** Starting from HRM journal's special issue call for paper, we are about to starting investigation on relationship betwen HRM acitivy and Social Cohesion
+- **Description:** 
+- **Keywords:** 
+- **Related articles:** 
+  - https://onlinelibrary.wiley.com/pb-assets/assets/1099050X/cfp/CFP-Social-Cohesion-1713012075373.pdf
+
+### AI_Entrepre
+- **Ownership:** Chungil Chae (Chad)
+- **Status:** Planning
+- **Movivation:** Starting from IJEBR journal's special issue call for paper, we are about to starting investigation on relationship betwen AI and Entreprenureship
+- **Description:** 
+- **Keywords:** 
+- **Related articles:** 
+    - https://www.researchgate.net/publication/379753068_Artificial_Intelligence_in_Entrepreneurship
+
+### comp_research_synth_top_bib
+- **Ownership:** Chungil Chae (Chad)
+- **Status:** Planning
+- **Movivation:** Considering the growing importance of computational approaches in research synthesis, it is timely to provide a comprehensive review for the Human Resource Development (HRD) community. This publication aims to systematically examine computationally driven research synthesis methods, including computational grounded theory, bibliometrics, and literature-based knowledge discovery (LBKD). By highlighting their applications, strengths, and limitations, this review will offer HRD scholars and practitioners a structured framework for leveraging computational techniques to enhance the rigor and scope of research synthesis in the field.
+- **Description:** 
+- **Keywords:** 
+- **Related articles:** 
+  - TBA
+
+### cultural_adj_noralogical_network
+- **Ownership:** Chungil Chae (Chad)
+- **Status:** Planning
+- **Movivation:** In International Human Resource Management (IHRM), cultural adjustment has long been recognized as a critical concept in expatriate research. This study applies an extended nomological network analysis—mapping relationships between variables—to offer new explanations and generate hypotheses on cultural adjustment. Additionally, as part of this research, a reliability generalization study will be conducted to assess the consistency and measurement reliability of cultural adjustment constructs across different studies. This approach aims to refine theoretical frameworks and enhance the robustness of future expatriate research.
+- **Description:** 
+- **Keywords:** 
+- **Related articles:** 
+    - TBA
+
+### AI_and_Academic_Writing
+- **Ownership:** Chungil Chae (Chad)
+- **Status:** Planning
+- **Movivation:** This research aims to collect and analyze AI policy statements from major academic journals to identify common themes regarding the use of AI, particularly generative large language models (LLMs), in research and academic writing. By examining these policies, the study seeks to understand prevailing guidelines, ethical considerations, and best practices for integrating AI tools in scholarly work. Based on these insights, recommendations will be developed to promote prolific yet responsible use of generative AI within the Human Resource Development (HRD) research community, ensuring both ethical integrity and academic rigor.
+- **Description:** 
+- **Keywords:** 
+- **Related articles:** 
+  - TBA
+
+### Social Entrepreneurship
+- **Ownership:** Chungil Chae (Chad)
+- **Status:** Planning
+- **Movivation:** To gain a deeper understanding of social entrepreneurship, this study applies bibliometric analysis and topic modeling to existing publications in the field. By mapping research trends, identifying key themes, and analyzing the intellectual structure of social entrepreneurship literature, this study aims to uncover patterns, emerging topics, and knowledge gaps. The findings will provide insights into the evolution of social entrepreneurship research and inform future scholarly and practical developments in the field.
+- **Description:** 
+- **Keywords:** 
+- **Related articles:** 
+  - TBA 
+
+## Extended Idea or Plan
 - tourism_bib_top
-  - 
-  - 
+  - A bibliometric analysis of tourists’ experience and happiness in tourism in China
+  - Comparison of indepth analysis on tourists’ experience and happiness
 - kird
-  - 
+  - A paper that keep main structure but different explanation with other explanation variable
   - 
   
 ## Student Lead Project
 - TBA
+
+
+---
+
+[PLACEHOLDER]
+### TITLE
+- **Ownership:** TBA
+- **Status:**  TBA
+- **Movivation:**  TBA
+- **Description:**  TBA
+- **Keywords:**  TBA
+- **Related articles:**  TBA
+  - TBA
+  - TBA
+

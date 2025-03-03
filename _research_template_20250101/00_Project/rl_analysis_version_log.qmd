@@ -1,4 +1,0 @@
-# Analysis Version {.unnumbered}
-
-## Version 0.0.1
-- Starting draft

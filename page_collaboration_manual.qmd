@@ -75,8 +75,92 @@ knitr::opts_chunk$set(error = F, echo = F, warning = F, fig.width=8, fig.height=
 
 ```
 
+:::{.callout-note}
+## Some words before we start...
+
+:::
+
+# Basic Procedure
+
+## Principal
+
+## Credit and Authorship (order)
+
+## Author's role and responsibility
+
+## Workflow
+
+## Tools
+
+## AI
+
+## Ethics
+
+---
+
 # For Collaborators
 
 
+---
 
 # For Students
+
+## What You Need to Know about Me (Chad)
+- Academic Freedom
+- Research Ethics
+- Very Impromptu
+- I like to develop rules and procedures
+- Research procedures MUST be transparent and well-structured
+- I try to make all activities documented
+- I try to make all activities replicable and reproducible
+
+## Basic Rule
+- We do communication via email formally
+- Response is immediate from instant message (e.g. WeChat)
+- No preparation, no meeting
+- You have responsibility to keep contact me and catch my attention on the project that you involve
+- People have different priorities. Especially, I have to deal with many other projects.
+  - If you fail to catch my attention when it's not on my priority list, I'll lose track and continue working on my own priority.Always think about the purpose.No credit for no effort. The same applies to no labor for no credit.
+- Be functional, but don't be anxious about your assignment being delayed. Just explain or bring it as it has been (don't need to be perfect).
+- **The decision to join a project and to leave is yours to make.** Don't feel guilty or sorry.
+- Be polite and generous to others, but maintain a sharp sense of critical thinking about the research subject.
+- Comment on my paper. Kind words are nice, but constructive feedback based on critical thinking is more helpful.
+
+## Type of Contribution and Credit
+
+### Publication
+
+#### 1st author and full credit
+- A case where a student or a group of students bring their own idea and develop it for publication with me. In this case, you will be the first author and I will become the corresponding author.
+
+#### Participant author
+- In research projects in which I have full authority, I invite a student or a group of students to contribute to the paper.I select students based on their previous performance, potential, and fit with the project.
+
+#### Conference paper author
+- As the lead author of a conference paper, poster, or abstract, I invite students to contribute to its development and grant them authorship credit if the paper is intended for submission to a conference.
+- However, it's essential to note that having students' authorship on a conference paper does not automatically guarantee the retention of authorship credit for full official journal publication.
+
+#### Acknowledgement
+- Acknowledgement is a way of recognizing contributions to research papers that, while not enough to receive authorship credit, are still valuable. 
+- Students' names and their contributions are listed in the "Acknowledgements" section of the research paper.
+- I frequently give students the opportunity to make minor contributions to research projects for training purposes or to encourage further development in their studies. While I rarely recommend students' involvement in research projects as authorship credit, it depends on their performance and contribution to the paper. 
+- Participation in a project doesn't guarantee acknowledgement.
+
+### Informal / Credit from Chad's proof
+
+#### White paper
+- Not all research efforts are published. In that case, students' work will be stored in Chad's intellectual archive as a white paper, and more detail of your name, activity and contribution will be described.
+- The white paper will be stored in Chad's intellectual archive and exposed to the public via the internet.
+
+#### Application Development
+- This is not a research project, but I am interested in application development. 
+- Students involved in the application development project will be acknowledged in the application development description.
+
+#### Course/Course Material Development
+- As a professor in higher education, I am also interested in course development, and course material development is part of my job. 
+- Sometimes, I invite students to develop course/course material development. Their contributions will be described and stored in detail in the course development document.
+
+#### Workshop Material Development/Operation
+- As a scholar and educator, I am interested in developing and delivering workshops or a series of lectures for a public or special audience. 
+- Therefore, I sometimes invite students to develop workshop material and operate the workshop. 
+- Their contributions will be described and stored in detail in the workshop document.

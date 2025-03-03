@@ -6,3 +6,4 @@ _git
 _quarto.yml
 /.quarto/
 /Working/
+update.sh
